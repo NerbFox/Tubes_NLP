@@ -1,0 +1,691 @@
+Question,Expected Answer
+"I have symptoms such as dischromic patches, itching, skin rash. What the name of the disease?",Fungal infection
+"I have symptoms such as itching, nodal skin eruptions, skin rash. What the name of the disease?",Fungal infection
+"I have symptoms such as dischromic patches, itching, nodal skin eruptions, skin rash. What the name of the disease?",Fungal infection
+"I have symptoms such as dischromic patches, nodal skin eruptions, skin rash. What the name of the disease?",Fungal infection
+"I have symptoms such as dischromic patches, itching, nodal skin eruptions. What the name of the disease?",Fungal infection
+"I have symptoms such as chills, continuous sneezing, shivering, watering from eyes. What the name of the disease?",Allergy
+"I have symptoms such as chills, shivering, watering from eyes. What the name of the disease?",Allergy
+"I have symptoms such as chills, continuous sneezing, watering from eyes. What the name of the disease?",Allergy
+"I have symptoms such as continuous sneezing, shivering, watering from eyes. What the name of the disease?",Allergy
+"I have symptoms such as chills, continuous sneezing, shivering. What the name of the disease?",Allergy
+"I have symptoms such as acidity, cough, stomach pain, ulcers on tongue, vomiting. What the name of the disease?",GERD
+"I have symptoms such as acidity, chest pain, stomach pain, ulcers on tongue, vomiting. What the name of the disease?",GERD
+"I have symptoms such as chest pain, cough, stomach pain, ulcers on tongue, vomiting. What the name of the disease?",GERD
+"I have symptoms such as acidity, chest pain, cough, stomach pain, ulcers on tongue, vomiting. What the name of the disease?",GERD
+"I have symptoms such as acidity, chest pain, cough, ulcers on tongue, vomiting. What the name of the disease?",GERD
+"I have symptoms such as acidity, chest pain, cough, stomach pain, ulcers on tongue. What the name of the disease?",GERD
+"I have symptoms such as acidity, chest pain, cough, stomach pain, vomiting. What the name of the disease?",GERD
+"I have symptoms such as itching, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as abdominal pain, itching, loss of appetite, nausea, yellowing of eyes, yellowish skin. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as abdominal pain, itching, loss of appetite, nausea, vomiting, yellowing of eyes. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as abdominal pain, itching, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as abdominal pain, itching, loss of appetite, nausea, vomiting, yellowish skin. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as abdominal pain, itching, loss of appetite, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as abdominal pain, itching, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as abdominal pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as burning micturition, skin rash, spotting urination, stomach pain. What the name of the disease?",Drug Reaction
+"I have symptoms such as burning micturition, itching, skin rash, spotting urination. What the name of the disease?",Drug Reaction
+"I have symptoms such as burning micturition, itching, spotting urination, stomach pain. What the name of the disease?",Drug Reaction
+"I have symptoms such as itching, skin rash, spotting urination, stomach pain. What the name of the disease?",Drug Reaction
+"I have symptoms such as burning micturition, itching, skin rash, spotting urination, stomach pain. What the name of the disease?",Drug Reaction
+"I have symptoms such as burning micturition, itching, skin rash, stomach pain. What the name of the disease?",Drug Reaction
+"I have symptoms such as abdominal pain, indigestion, loss of appetite, passage of gases, vomiting. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as abdominal pain, indigestion, internal itching, loss of appetite, passage of gases, vomiting. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as abdominal pain, indigestion, internal itching, passage of gases, vomiting. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as abdominal pain, indigestion, internal itching, loss of appetite, passage of gases. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as indigestion, internal itching, loss of appetite, passage of gases, vomiting. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as abdominal pain, internal itching, loss of appetite, passage of gases, vomiting. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as abdominal pain, indigestion, internal itching, loss of appetite, vomiting. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as extra marital contacts, muscle wasting, patches in throat. What the name of the disease?",AIDS
+"I have symptoms such as extra marital contacts, high fever, muscle wasting, patches in throat. What the name of the disease?",AIDS
+"I have symptoms such as extra marital contacts, high fever, muscle wasting. What the name of the disease?",AIDS
+"I have symptoms such as high fever, muscle wasting, patches in throat. What the name of the disease?",AIDS
+"I have symptoms such as extra marital contacts, high fever, patches in throat. What the name of the disease?",AIDS
+"I have symptoms such as excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness, weight loss. What the name of the disease?",Diabetes
+"I have symptoms such as blurred and distorted vision, excessive hunger, fatigue, increased appetite, lethargy, obesity, polyuria, restlessness, weight loss. What the name of the disease?",Diabetes
+"I have symptoms such as blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, polyuria, restlessness, weight loss. What the name of the disease?",Diabetes
+"I have symptoms such as blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, weight loss. What the name of the disease?",Diabetes
+"I have symptoms such as blurred and distorted vision, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness, weight loss. What the name of the disease?",Diabetes
+"I have symptoms such as blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, obesity, polyuria, restlessness, weight loss. What the name of the disease?",Diabetes
+"I have symptoms such as blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness, weight loss. What the name of the disease?",Diabetes
+"I have symptoms such as blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness. What the name of the disease?",Diabetes
+"I have symptoms such as blurred and distorted vision, excessive hunger, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness, weight loss. What the name of the disease?",Diabetes
+"I have symptoms such as diarrhea, sunken eyes, vomiting. What the name of the disease?",Gastroenteritis
+"I have symptoms such as dehydration, diarrhea, vomiting. What the name of the disease?",Gastroenteritis
+"I have symptoms such as dehydration, diarrhea, sunken eyes. What the name of the disease?",Gastroenteritis
+"I have symptoms such as dehydration, diarrhea, sunken eyes, vomiting. What the name of the disease?",Gastroenteritis
+"I have symptoms such as dehydration, sunken eyes, vomiting. What the name of the disease?",Gastroenteritis
+"I have symptoms such as breathlessness, cough, family history, fatigue, high fever, mucoid sputum. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as breathlessness, cough, family history, fatigue, high fever. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as breathlessness, family history, fatigue, high fever, mucoid sputum. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as cough, family history, fatigue, high fever, mucoid sputum. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as breathlessness, cough, family history, fatigue, mucoid sputum. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as breathlessness, cough, fatigue, high fever, mucoid sputum. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as breathlessness, cough, family history, high fever, mucoid sputum. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as chest pain, dizziness, headache, lack of concentration, loss of balance. What the name of the disease?",Hypertension
+"I have symptoms such as chest pain, dizziness, headache, lack of concentration. What the name of the disease?",Hypertension
+"I have symptoms such as chest pain, headache, lack of concentration, loss of balance. What the name of the disease?",Hypertension
+"I have symptoms such as chest pain, dizziness, lack of concentration, loss of balance. What the name of the disease?",Hypertension
+"I have symptoms such as chest pain, dizziness, headache, loss of balance. What the name of the disease?",Hypertension
+"I have symptoms such as dizziness, headache, lack of concentration, loss of balance. What the name of the disease?",Hypertension
+"I have symptoms such as acidity, depression, excessive hunger, headache, indigestion, irritability, stiff neck, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as acidity, blurred and distorted vision, depression, excessive hunger, indigestion, irritability, stiff neck, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as acidity, blurred and distorted vision, excessive hunger, headache, indigestion, irritability, stiff neck, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as acidity, blurred and distorted vision, depression, excessive hunger, headache, indigestion, stiff neck, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as blurred and distorted vision, depression, excessive hunger, headache, indigestion, irritability, stiff neck, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as acidity, blurred and distorted vision, depression, excessive hunger, headache, irritability, stiff neck, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as acidity, blurred and distorted vision, depression, excessive hunger, headache, indigestion, irritability, stiff neck. What the name of the disease?",Migraine
+"I have symptoms such as acidity, blurred and distorted vision, depression, headache, indigestion, irritability, stiff neck, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as acidity, blurred and distorted vision, depression, excessive hunger, headache, indigestion, irritability, stiff neck, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as acidity, blurred and distorted vision, depression, excessive hunger, headache, indigestion, irritability, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as dizziness, loss of balance, neck pain, weakness in limbs. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as back pain, dizziness, loss of balance, neck pain, weakness in limbs. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as back pain, loss of balance, neck pain, weakness in limbs. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as back pain, dizziness, loss of balance, weakness in limbs. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as back pain, dizziness, neck pain, weakness in limbs. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as back pain, dizziness, loss of balance, neck pain. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as altered sensorium, vomiting, weakness of one body side. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as headache, vomiting, weakness of one body side. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as altered sensorium, headache, weakness of one body side. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as altered sensorium, headache, vomiting. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as altered sensorium, headache, vomiting, weakness of one body side. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as abdominal pain, dark urine, fatigue, high fever, itching, weight loss, yellowish skin. What the name of the disease?",Jaundice
+"I have symptoms such as abdominal pain, dark urine, high fever, itching, vomiting, weight loss, yellowish skin. What the name of the disease?",Jaundice
+"I have symptoms such as abdominal pain, fatigue, high fever, itching, vomiting, weight loss, yellowish skin. What the name of the disease?",Jaundice
+"I have symptoms such as abdominal pain, dark urine, fatigue, high fever, vomiting, weight loss, yellowish skin. What the name of the disease?",Jaundice
+"I have symptoms such as abdominal pain, dark urine, fatigue, high fever, itching, vomiting, yellowish skin. What the name of the disease?",Jaundice
+"I have symptoms such as abdominal pain, dark urine, fatigue, high fever, itching, vomiting, weight loss. What the name of the disease?",Jaundice
+"I have symptoms such as dark urine, fatigue, high fever, itching, vomiting, weight loss, yellowish skin. What the name of the disease?",Jaundice
+"I have symptoms such as abdominal pain, dark urine, fatigue, itching, vomiting, weight loss, yellowish skin. What the name of the disease?",Jaundice
+"I have symptoms such as abdominal pain, dark urine, fatigue, high fever, itching, vomiting, weight loss, yellowish skin. What the name of the disease?",Jaundice
+"I have symptoms such as chills, diarrhea, high fever, muscle pain, nausea, sweating, vomiting. What the name of the disease?",Malaria
+"I have symptoms such as chills, diarrhea, headache, high fever, muscle pain, nausea, sweating. What the name of the disease?",Malaria
+"I have symptoms such as chills, diarrhea, headache, high fever, muscle pain, nausea, sweating, vomiting. What the name of the disease?",Malaria
+"I have symptoms such as chills, diarrhea, headache, muscle pain, nausea, sweating, vomiting. What the name of the disease?",Malaria
+"I have symptoms such as diarrhea, headache, high fever, muscle pain, nausea, sweating, vomiting. What the name of the disease?",Malaria
+"I have symptoms such as chills, headache, high fever, muscle pain, nausea, sweating, vomiting. What the name of the disease?",Malaria
+"I have symptoms such as chills, diarrhea, headache, high fever, muscle pain, sweating, vomiting. What the name of the disease?",Malaria
+"I have symptoms such as chills, diarrhea, headache, high fever, muscle pain, nausea, vomiting. What the name of the disease?",Malaria
+"I have symptoms such as fatigue, headache, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as headache, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, headache, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, headache, high fever, itching, lethargy, loss of appetite, malaise, red spots over body, skin rash, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, headache, high fever, itching, lethargy, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, headache, high fever, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, headache, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, headache, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, headache, high fever, itching, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as back pain, chills, fatigue, headache, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting. What the name of the disease?",Dengue
+"I have symptoms such as back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, nausea, pain behind the eyes, red spots over body, skin rash, vomiting. What the name of the disease?",Dengue
+"I have symptoms such as back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting. What the name of the disease?",Dengue
+"I have symptoms such as back pain, chills, fatigue, headache, high fever, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting. What the name of the disease?",Dengue
+"I have symptoms such as back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, vomiting. What the name of the disease?",Dengue
+"I have symptoms such as back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash. What the name of the disease?",Dengue
+"I have symptoms such as back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting. What the name of the disease?",Dengue
+"I have symptoms such as back pain, chills, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting. What the name of the disease?",Dengue
+"I have symptoms such as back pain, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting. What the name of the disease?",Dengue
+"I have symptoms such as back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, skin rash, vomiting. What the name of the disease?",Dengue
+"I have symptoms such as abdominal pain, belly pain, chills, constipation, diarrhea, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting. What the name of the disease?",Typhoid
+"I have symptoms such as abdominal pain, belly pain, chills, constipation, diarrhea, fatigue, headache, high fever, nausea, vomiting. What the name of the disease?",Typhoid
+"I have symptoms such as belly pain, chills, constipation, diarrhea, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting. What the name of the disease?",Typhoid
+"I have symptoms such as abdominal pain, belly pain, chills, constipation, diarrhea, fatigue, headache, high fever, nausea, toxic look (typhos). What the name of the disease?",Typhoid
+"I have symptoms such as abdominal pain, belly pain, chills, constipation, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting. What the name of the disease?",Typhoid
+"I have symptoms such as abdominal pain, belly pain, chills, constipation, diarrhea, fatigue, headache, high fever, toxic look (typhos), vomiting. What the name of the disease?",Typhoid
+"I have symptoms such as abdominal pain, chills, constipation, diarrhea, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting. What the name of the disease?",Typhoid
+"I have symptoms such as abdominal pain, belly pain, chills, diarrhea, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting. What the name of the disease?",Typhoid
+"I have symptoms such as abdominal pain, belly pain, chills, constipation, diarrhea, fatigue, high fever, nausea, toxic look (typhos), vomiting. What the name of the disease?",Typhoid
+"I have symptoms such as abdominal pain, dark urine, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",hepatitis A
+"I have symptoms such as abdominal pain, dark urine, diarrhea, joint pain, loss of appetite, mild fever, muscle pain, nausea, yellowing of eyes, yellowish skin. What the name of the disease?",hepatitis A
+"I have symptoms such as abdominal pain, diarrhea, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",hepatitis A
+"I have symptoms such as abdominal pain, dark urine, diarrhea, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",hepatitis A
+"I have symptoms such as abdominal pain, dark urine, diarrhea, joint pain, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",hepatitis A
+"I have symptoms such as abdominal pain, dark urine, diarrhea, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",hepatitis A
+"I have symptoms such as abdominal pain, dark urine, diarrhea, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes. What the name of the disease?",hepatitis A
+"I have symptoms such as abdominal pain, dark urine, diarrhea, joint pain, loss of appetite, mild fever, muscle pain, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",hepatitis A
+"I have symptoms such as dark urine, diarrhea, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",hepatitis A
+"I have symptoms such as abdominal pain, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis B
+"I have symptoms such as abdominal pain, dark urine, fatigue, itching, lethargy, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis B
+"I have symptoms such as abdominal pain, dark urine, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis B
+"I have symptoms such as abdominal pain, dark urine, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes. What the name of the disease?",Hepatitis B
+"I have symptoms such as abdominal pain, dark urine, fatigue, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis B
+"I have symptoms such as abdominal pain, dark urine, fatigue, itching, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis B
+"I have symptoms such as dark urine, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis B
+"I have symptoms such as abdominal pain, dark urine, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis B
+"I have symptoms such as abdominal pain, dark urine, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis B
+"I have symptoms such as family history, fatigue, loss of appetite, nausea, yellowish skin. What the name of the disease?",Hepatitis C
+"I have symptoms such as family history, fatigue, loss of appetite, nausea, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis C
+"I have symptoms such as family history, fatigue, nausea, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis C
+"I have symptoms such as family history, loss of appetite, nausea, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis C
+"I have symptoms such as family history, fatigue, loss of appetite, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis C
+"I have symptoms such as fatigue, loss of appetite, nausea, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis C
+"I have symptoms such as family history, fatigue, loss of appetite, nausea, yellowing of eyes. What the name of the disease?",Hepatitis C
+"I have symptoms such as abdominal pain, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, dark urine, fatigue, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, dark urine, fatigue, joint pain, loss of appetite, nausea, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, dark urine, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, dark urine, fatigue, joint pain, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as dark urine, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, dark urine, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, dark urine, fatigue, joint pain, loss of appetite, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, dark urine, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, dark urine, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, acute liver failure, coma, dark urine, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, acute liver failure, coma, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, stomach bleeding, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, acute liver failure, coma, dark urine, fatigue, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, distention of abdomen, fluid overload, history of alcohol consumption, swelling of stomach, vomiting, yellowish skin. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as abdominal pain, distention of abdomen, fluid overload, history of alcohol consumption, swelling of stomach, vomiting. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as distention of abdomen, fluid overload, history of alcohol consumption, swelling of stomach, vomiting, yellowish skin. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as abdominal pain, distention of abdomen, history of alcohol consumption, swelling of stomach, vomiting, yellowish skin. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as abdominal pain, distention of abdomen, fluid overload, swelling of stomach, vomiting, yellowish skin. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as abdominal pain, distention of abdomen, fluid overload, history of alcohol consumption, vomiting, yellowish skin. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as abdominal pain, fluid overload, history of alcohol consumption, swelling of stomach, vomiting, yellowish skin. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as abdominal pain, distention of abdomen, fluid overload, history of alcohol consumption, swelling of stomach, yellowish skin. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as blood in sputum, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes. What the name of the disease?",Tuberculosis
+"I have symptoms such as blood in sputum, breathlessness, chest pain, chills, cough, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes. What the name of the disease?",Tuberculosis
+"I have symptoms such as blood in sputum, breathlessness, chest pain, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes. What the name of the disease?",Tuberculosis
+"I have symptoms such as blood in sputum, breathlessness, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, yellowing of eyes. What the name of the disease?",Tuberculosis
+"I have symptoms such as blood in sputum, breathlessness, chest pain, chills, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes. What the name of the disease?",Tuberculosis
+"I have symptoms such as blood in sputum, breathlessness, chest pain, chills, cough, fatigue, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes. What the name of the disease?",Tuberculosis
+"I have symptoms such as blood in sputum, breathlessness, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes. What the name of the disease?",Tuberculosis
+"I have symptoms such as blood in sputum, breathlessness, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, swelled lymph nodes, vomiting, weight loss, yellowing of eyes. What the name of the disease?",Tuberculosis
+"I have symptoms such as blood in sputum, breathlessness, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, weight loss, yellowing of eyes. What the name of the disease?",Tuberculosis
+"I have symptoms such as chest pain, chills, congestion, continuous sneezing, cough, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as chest pain, chills, congestion, continuous sneezing, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as chest pain, congestion, continuous sneezing, cough, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as chest pain, chills, congestion, continuous sneezing, cough, fatigue, headache, high fever, loss of smell, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as chest pain, chills, congestion, continuous sneezing, cough, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as chest pain, chills, congestion, cough, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as chest pain, chills, congestion, continuous sneezing, cough, fatigue, headache, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as chest pain, chills, congestion, continuous sneezing, cough, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as chest pain, chills, congestion, continuous sneezing, cough, fatigue, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as breathlessness, chest pain, chills, cough, fast heart rate, fatigue, malaise, phlegm, rusty sputum, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as breathlessness, chest pain, chills, cough, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum. What the name of the disease?",Pneumonia
+"I have symptoms such as breathlessness, chest pain, cough, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as chest pain, chills, cough, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as breathlessness, chest pain, chills, cough, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as breathlessness, chest pain, chills, cough, fast heart rate, fatigue, high fever, malaise, rusty sputum, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as breathlessness, chest pain, chills, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as breathlessness, chest pain, chills, cough, fast heart rate, high fever, malaise, phlegm, rusty sputum, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as breathlessness, chest pain, chills, cough, fast heart rate, fatigue, high fever, phlegm, rusty sputum, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as bloody stool, constipation, irritation in anus, pain during bowel movements, pain in anal region. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as bloody stool, irritation in anus, pain during bowel movements, pain in anal region. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as bloody stool, constipation, irritation in anus, pain in anal region. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as bloody stool, constipation, irritation in anus, pain during bowel movements. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as bloody stool, constipation, pain during bowel movements, pain in anal region. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as constipation, irritation in anus, pain during bowel movements, pain in anal region. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as breathlessness, chest pain, sweating, vomiting. What the name of the disease?",Heart attack
+"I have symptoms such as breathlessness, chest pain, sweating. What the name of the disease?",Heart attack
+"I have symptoms such as breathlessness, sweating, vomiting. What the name of the disease?",Heart attack
+"I have symptoms such as breathlessness, chest pain, vomiting. What the name of the disease?",Heart attack
+"I have symptoms such as chest pain, sweating, vomiting. What the name of the disease?",Heart attack
+"I have symptoms such as bruising, cramps, fatigue, obesity, prominent veins on calf, swollen blood vessels. What the name of the disease?",Varicose veins
+"I have symptoms such as bruising, cramps, fatigue, obesity, prominent veins on calf, swollen blood vessels, swollen legs. What the name of the disease?",Varicose veins
+"I have symptoms such as bruising, cramps, fatigue, obesity, swollen blood vessels, swollen legs. What the name of the disease?",Varicose veins
+"I have symptoms such as bruising, cramps, fatigue, obesity, prominent veins on calf, swollen legs. What the name of the disease?",Varicose veins
+"I have symptoms such as bruising, cramps, obesity, prominent veins on calf, swollen blood vessels, swollen legs. What the name of the disease?",Varicose veins
+"I have symptoms such as cramps, fatigue, obesity, prominent veins on calf, swollen blood vessels, swollen legs. What the name of the disease?",Varicose veins
+"I have symptoms such as bruising, cramps, fatigue, prominent veins on calf, swollen blood vessels, swollen legs. What the name of the disease?",Varicose veins
+"I have symptoms such as bruising, fatigue, obesity, prominent veins on calf, swollen blood vessels, swollen legs. What the name of the disease?",Varicose veins
+"I have symptoms such as abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, mood swings, puffy face and eyes, swollen extremeties, weight gain. What the name of the disease?",Hypothyroidism
+"I have symptoms such as abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties, weight gain. What the name of the disease?",Hypothyroidism
+"I have symptoms such as abnormal menstruation, brittle nails, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties, weight gain. What the name of the disease?",Hypothyroidism
+"I have symptoms such as abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, puffy face and eyes, swollen extremeties, weight gain. What the name of the disease?",Hypothyroidism
+"I have symptoms such as abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties. What the name of the disease?",Hypothyroidism
+"I have symptoms such as abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, mood swings, swollen extremeties, weight gain. What the name of the disease?",Hypothyroidism
+"I have symptoms such as abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties, weight gain. What the name of the disease?",Hypothyroidism
+"I have symptoms such as abnormal menstruation, brittle nails, cold hands and feets, depression, enlarged thyroid, fatigue, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties, weight gain. What the name of the disease?",Hypothyroidism
+"I have symptoms such as abnormal menstruation, diarrhea, excessive hunger, fast heart rate, fatigue, irritability, muscle weakness, restlessness, sweating, weight loss. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, diarrhea, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, diarrhea, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, diarrhea, excessive hunger, fast heart rate, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, diarrhea, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, sweating, weight loss. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, diarrhea, excessive hunger, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, diarrhea, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, weight loss. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, diarrhea, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, irritability, nausea, palpitations, slurred speech, sweating, vomiting. What the name of the disease?",Hypoglycemia
+"I have symptoms such as anxiety, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting. What the name of the disease?",Hypoglycemia
+"I have symptoms such as anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, vomiting. What the name of the disease?",Hypoglycemia
+"I have symptoms such as anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting. What the name of the disease?",Hypoglycemia
+"I have symptoms such as anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, palpitations, slurred speech, sweating, vomiting. What the name of the disease?",Hypoglycemia
+"I have symptoms such as anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting. What the name of the disease?",Hypoglycemia
+"I have symptoms such as blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting. What the name of the disease?",Hypoglycemia
+"I have symptoms such as anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating. What the name of the disease?",Hypoglycemia
+"I have symptoms such as anxiety, blurred and distorted vision, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting. What the name of the disease?",Hypoglycemia
+"I have symptoms such as hip joint pain, joint pain, knee pain, painful walking, swelling joints. What the name of the disease?",Osteoarthristis
+"I have symptoms such as joint pain, knee pain, neck pain, painful walking, swelling joints. What the name of the disease?",Osteoarthristis
+"I have symptoms such as hip joint pain, joint pain, knee pain, neck pain, painful walking, swelling joints. What the name of the disease?",Osteoarthristis
+"I have symptoms such as hip joint pain, knee pain, neck pain, painful walking, swelling joints. What the name of the disease?",Osteoarthristis
+"I have symptoms such as hip joint pain, joint pain, knee pain, neck pain, painful walking. What the name of the disease?",Osteoarthristis
+"I have symptoms such as hip joint pain, joint pain, knee pain, neck pain, swelling joints. What the name of the disease?",Osteoarthristis
+"I have symptoms such as hip joint pain, joint pain, neck pain, painful walking, swelling joints. What the name of the disease?",Osteoarthristis
+"I have symptoms such as movement stiffness, muscle weakness, stiff neck, swelling joints. What the name of the disease?",Arthritis
+"I have symptoms such as movement stiffness, muscle weakness, painful walking, swelling joints. What the name of the disease?",Arthritis
+"I have symptoms such as movement stiffness, painful walking, stiff neck, swelling joints. What the name of the disease?",Arthritis
+"I have symptoms such as movement stiffness, muscle weakness, painful walking, stiff neck, swelling joints. What the name of the disease?",Arthritis
+"I have symptoms such as muscle weakness, painful walking, stiff neck, swelling joints. What the name of the disease?",Arthritis
+"I have symptoms such as movement stiffness, muscle weakness, painful walking, stiff neck. What the name of the disease?",Arthritis
+"I have symptoms such as headache, loss of balance, nausea, spinning movements, vomiting. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as loss of balance, nausea, spinning movements, unsteadiness, vomiting. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as headache, loss of balance, nausea, spinning movements, unsteadiness. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as headache, nausea, spinning movements, unsteadiness, vomiting. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as headache, loss of balance, nausea, unsteadiness, vomiting. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as headache, loss of balance, spinning movements, unsteadiness, vomiting. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as headache, loss of balance, nausea, spinning movements, unsteadiness, vomiting. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as blackheads, scurring, skin rash. What the name of the disease?",Acne
+"I have symptoms such as pus filled pimples, scurring, skin rash. What the name of the disease?",Acne
+"I have symptoms such as blackheads, pus filled pimples, scurring. What the name of the disease?",Acne
+"I have symptoms such as blackheads, pus filled pimples, skin rash. What the name of the disease?",Acne
+"I have symptoms such as blackheads, pus filled pimples, scurring, skin rash. What the name of the disease?",Acne
+"I have symptoms such as bladder discomfort, continuous feel of urine, foul smell of urine. What the name of the disease?",Urinary tract infection
+"I have symptoms such as bladder discomfort, burning micturition, foul smell of urine. What the name of the disease?",Urinary tract infection
+"I have symptoms such as bladder discomfort, burning micturition, continuous feel of urine. What the name of the disease?",Urinary tract infection
+"I have symptoms such as bladder discomfort, burning micturition, continuous feel of urine, foul smell of urine. What the name of the disease?",Urinary tract infection
+"I have symptoms such as burning micturition, continuous feel of urine, foul smell of urine. What the name of the disease?",Urinary tract infection
+"I have symptoms such as joint pain, silver like dusting, skin peeling, skin rash, small dents in nails. What the name of the disease?",Psoriasis
+"I have symptoms such as inflammatory nails, joint pain, silver like dusting, skin rash, small dents in nails. What the name of the disease?",Psoriasis
+"I have symptoms such as inflammatory nails, joint pain, skin peeling, skin rash, small dents in nails. What the name of the disease?",Psoriasis
+"I have symptoms such as inflammatory nails, joint pain, silver like dusting, skin peeling, small dents in nails. What the name of the disease?",Psoriasis
+"I have symptoms such as inflammatory nails, joint pain, silver like dusting, skin peeling, skin rash, small dents in nails. What the name of the disease?",Psoriasis
+"I have symptoms such as inflammatory nails, joint pain, silver like dusting, skin peeling, skin rash. What the name of the disease?",Psoriasis
+"I have symptoms such as inflammatory nails, silver like dusting, skin peeling, skin rash, small dents in nails. What the name of the disease?",Psoriasis
+"I have symptoms such as blister, high fever, skin rash, yellow crust ooze. What the name of the disease?",Impetigo
+"I have symptoms such as blister, high fever, red sore around nose, skin rash. What the name of the disease?",Impetigo
+"I have symptoms such as blister, red sore around nose, skin rash, yellow crust ooze. What the name of the disease?",Impetigo
+"I have symptoms such as blister, high fever, red sore around nose, skin rash, yellow crust ooze. What the name of the disease?",Impetigo
+"I have symptoms such as blister, high fever, red sore around nose, yellow crust ooze. What the name of the disease?",Impetigo
+"I have symptoms such as high fever, red sore around nose, skin rash, yellow crust ooze. What the name of the disease?",Impetigo
+What is the disease name based on this description: An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.?,Drug Reaction
+What is the disease name based on this description: An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type.?,Malaria
+"What is the disease name based on this description: An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens.?",Allergy
+"What is the disease name based on this description: Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.?",Hypothyroidism
+"What is the disease name based on this description: Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family.?",Psoriasis
+"What is the disease name based on this description: Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD.?",GERD
+"What is the disease name based on this description: Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases?",Chronic cholestasis
+What is the disease name based on this description: Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.?,hepatitis A
+"What is the disease name based on this description: Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time.?",Osteoarthristis
+What is the disease name based on this description: Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo — the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizziness.?,(vertigo) Paroymsal  Positional Vertigo
+What is the disease name based on this description:  Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes.?,Hypoglycemia
+"What is the disease name based on this description: Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents.?",Acne
+"What is the disease name based on this description: Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.?",Diabetes
+"What is the disease name based on this description: Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts.?",Impetigo
+"What is the disease name based on this description: Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms.?",Hypertension
+"What is the disease name based on this description: Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer.?",Peptic ulcer disease
+"What is the disease name based on this description: Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal. In their ... Other names, Haemorrhoids, piles, hemorrhoidal disease .?",Dimorphic hemorrhoids(piles)
+"What is the disease name based on this description: The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.?",Common Cold
+"What is the disease name based on this description: Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters.?",Chicken pox
+"What is the disease name based on this description: Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs).?",Cervical spondylosis
+"What is the disease name based on this description: Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.?",Hyperthyroidism
+"What is the disease name based on this description: Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating.?",Urinary tract infection
+"What is the disease name based on this description: A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs.?",Varicose veins
+"What is the disease name based on this description: Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.?",AIDS
+"What is the disease name based on this description: Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body.?",Paralysis (brain hemorrhage)
+"What is the disease name based on this description: An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe.?",Typhoid
+"What is the disease name based on this description: Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus.?",Hepatitis B
+"What is the disease name based on this description: In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi.?",Fungal infection
+"What is the disease name based on this description: Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer.?",Hepatitis C
+"What is the disease name based on this description: A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities.?",Migraine
+"What is the disease name based on this description: Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working.?",Bronchial Asthma
+"What is the disease name based on this description: Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol?",Alcoholic hepatitis
+"What is the disease name based on this description: Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the ""morbus regius"" (the regal disease) in the belief that only the touch of a king could cure it?",Jaundice
+What is the disease name based on this description: A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.?,Hepatitis E
+"What is the disease name based on this description: an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. — called also breakbone fever, dengue fever.?",Dengue
+"What is the disease name based on this description: Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV).?",Hepatitis D
+"What is the disease name based on this description: The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle.?",Heart attack
+"What is the disease name based on this description: Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe.?",Pneumonia
+"What is the disease name based on this description: Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis.?",Arthritis
+"What is the disease name based on this description: Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting .?",Gastroenteritis
+"What is the disease name based on this description: Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis.?",Tuberculosis
+What is the description of the disease Drug Reaction?,An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.
+What is the description of the disease Malaria?,An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type.
+What is the description of the disease Allergy?,"An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens."
+What is the description of the disease Hypothyroidism?,"Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone."
+What is the description of the disease Psoriasis?,"Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family."
+What is the description of the disease GERD?,"Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD."
+What is the description of the disease Chronic cholestasis?,"Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases"
+What is the description of the disease hepatitis A?,Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.
+What is the description of the disease Osteoarthristis?,"Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time."
+What is the description of the disease (vertigo) Paroymsal  Positional Vertigo?,Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo — the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizziness.
+What is the description of the disease Hypoglycemia?, Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes.
+What is the description of the disease Acne?,"Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents."
+What is the description of the disease Diabetes?,"Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy."
+What is the description of the disease Impetigo?,"Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts."
+What is the description of the disease Hypertension?,"Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms."
+What is the description of the disease Peptic ulcer disease?,"Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer."
+What is the description of the disease Dimorphic hemorrhoids(piles)?,"Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal. In their ... Other names, Haemorrhoids, piles, hemorrhoidal disease ."
+What is the description of the disease Common Cold?,"The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold."
+What is the description of the disease Chicken pox?,"Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters."
+What is the description of the disease Cervical spondylosis?,"Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs)."
+What is the description of the disease Hyperthyroidism?,"Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat."
+What is the description of the disease Urinary tract infection?,"Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating."
+What is the description of the disease Varicose veins?,"A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs."
+What is the description of the disease AIDS?,"Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease."
+What is the description of the disease Paralysis (brain hemorrhage)?,"Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body."
+What is the description of the disease Typhoid?,"An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe."
+What is the description of the disease Hepatitis B?,"Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus."
+What is the description of the disease Fungal infection?,"In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi."
+What is the description of the disease Hepatitis C?,"Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer."
+What is the description of the disease Migraine?,"A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities."
+What is the description of the disease Bronchial Asthma?,"Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working."
+What is the description of the disease Alcoholic hepatitis?,"Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol"
+What is the description of the disease Jaundice?,"Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the ""morbus regius"" (the regal disease) in the belief that only the touch of a king could cure it"
+What is the description of the disease Hepatitis E?,A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.
+What is the description of the disease Dengue?,"an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. — called also breakbone fever, dengue fever."
+What is the description of the disease Hepatitis D?,"Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV)."
+What is the description of the disease Heart attack?,"The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle."
+What is the description of the disease Pneumonia?,"Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe."
+What is the description of the disease Arthritis?,"Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis."
+What is the description of the disease Gastroenteritis?,"Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting ."
+What is the description of the disease Tuberculosis?,"Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis."
+"I have symptoms such as skin rash, dischromic patches, itching. What the name of the disease?",Fungal infection
+"I have symptoms such as nodal skin eruptions, skin rash. What the name of the disease?",Fungal infection
+"I have symptoms such as dischromic patches, skin rash, itching. What the name of the disease?",Fungal infection
+"I have symptoms such as skin rash, nodal skin eruptions, dischromic patches. What the name of the disease?",Fungal infection
+"I have symptoms such as dischromic patches, nodal skin eruptions, itching. What the name of the disease?",Fungal infection
+"I have symptoms such as watering from eyes, continuous sneezing, shivering. What the name of the disease?",Allergy
+"I have symptoms such as watering from eyes, shivering, chills. What the name of the disease?",Allergy
+"I have symptoms such as continuous sneezing, watering from eyes. What the name of the disease?",Allergy
+"I have symptoms such as continuous sneezing, watering from eyes. What the name of the disease?",Allergy
+"I have symptoms such as continuous sneezing, shivering. What the name of the disease?",Allergy
+"I have symptoms such as ulcers on tongue, stomach pain, vomiting, acidity, cough. What the name of the disease?",GERD
+"I have symptoms such as ulcers on tongue, stomach pain, vomiting, chest pain. What the name of the disease?",GERD
+"I have symptoms such as vomiting, chest pain, cough, ulcers on tongue. What the name of the disease?",GERD
+"I have symptoms such as ulcers on tongue, cough, stomach pain, chest pain, vomiting, acidity. What the name of the disease?",GERD
+"I have symptoms such as chest pain, acidity, cough, ulcers on tongue, vomiting. What the name of the disease?",GERD
+"I have symptoms such as cough, chest pain, stomach pain, acidity. What the name of the disease?",GERD
+"I have symptoms such as chest pain, vomiting, stomach pain, acidity, cough. What the name of the disease?",GERD
+"I have symptoms such as yellowish skin, itching, nausea, loss of appetite, vomiting, yellowing of eyes. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as loss of appetite, nausea, yellowish skin, itching, abdominal pain. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as itching, vomiting, nausea, loss of appetite, abdominal pain, yellowing of eyes. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as itching, yellowing of eyes, loss of appetite, vomiting, abdominal pain, yellowish skin. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as loss of appetite, itching, nausea, vomiting, abdominal pain. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as loss of appetite, itching, yellowish skin, abdominal pain, yellowing of eyes, vomiting. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as nausea, abdominal pain, yellowish skin, vomiting, yellowing of eyes, itching. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as loss of appetite, vomiting, yellowing of eyes, abdominal pain, yellowish skin. What the name of the disease?",Chronic cholestasis
+"I have symptoms such as stomach pain, burning micturition, skin rash. What the name of the disease?",Drug Reaction
+"I have symptoms such as itching, spotting urination, skin rash. What the name of the disease?",Drug Reaction
+"I have symptoms such as itching, stomach pain, burning micturition, spotting urination. What the name of the disease?",Drug Reaction
+"I have symptoms such as spotting urination, itching, stomach pain, skin rash. What the name of the disease?",Drug Reaction
+"I have symptoms such as burning micturition, spotting urination, stomach pain, itching. What the name of the disease?",Drug Reaction
+"I have symptoms such as stomach pain, itching, skin rash. What the name of the disease?",Drug Reaction
+"I have symptoms such as indigestion, passage of gases, abdominal pain, vomiting. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as indigestion, vomiting, loss of appetite, internal itching, abdominal pain, passage of gases. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as abdominal pain, vomiting, internal itching, passage of gases. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as indigestion, passage of gases, internal itching, loss of appetite, abdominal pain. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as passage of gases, internal itching, loss of appetite, vomiting, indigestion. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as abdominal pain, passage of gases, loss of appetite, internal itching. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as abdominal pain, indigestion, loss of appetite, vomiting. What the name of the disease?",Peptic ulcer disease
+"I have symptoms such as extra marital contacts, muscle wasting. What the name of the disease?",AIDS
+"I have symptoms such as extra marital contacts, muscle wasting, high fever. What the name of the disease?",AIDS
+"I have symptoms such as extra marital contacts, muscle wasting, high fever. What the name of the disease?",AIDS
+"I have symptoms such as high fever, patches in throat, muscle wasting. What the name of the disease?",AIDS
+"I have symptoms such as patches in throat, extra marital contacts, high fever. What the name of the disease?",AIDS
+"I have symptoms such as lethargy, weight loss, restlessness, excessive hunger, obesity, irregular sugar level, fatigue, increased appetite, polyuria. What the name of the disease?",Diabetes
+"I have symptoms such as polyuria, weight loss, lethargy, increased appetite, blurred and distorted vision, fatigue, excessive hunger, obesity. What the name of the disease?",Diabetes
+"I have symptoms such as restlessness, irregular sugar level, polyuria, excessive hunger, weight loss, fatigue, blurred and distorted vision, lethargy. What the name of the disease?",Diabetes
+"I have symptoms such as polyuria, blurred and distorted vision, fatigue, weight loss, obesity, irregular sugar level, excessive hunger, increased appetite. What the name of the disease?",Diabetes
+"I have symptoms such as weight loss, increased appetite, polyuria, blurred and distorted vision, irregular sugar level, obesity, lethargy, restlessness, fatigue. What the name of the disease?",Diabetes
+"I have symptoms such as weight loss, blurred and distorted vision, excessive hunger, irregular sugar level, polyuria, restlessness, obesity, increased appetite. What the name of the disease?",Diabetes
+"I have symptoms such as fatigue, weight loss, lethargy, obesity, increased appetite, blurred and distorted vision, excessive hunger, restlessness, polyuria, irregular sugar level. What the name of the disease?",Diabetes
+"I have symptoms such as polyuria, excessive hunger, increased appetite, fatigue, restlessness, lethargy, blurred and distorted vision, obesity. What the name of the disease?",Diabetes
+"I have symptoms such as restlessness, increased appetite, blurred and distorted vision, weight loss, obesity, lethargy, polyuria, irregular sugar level. What the name of the disease?",Diabetes
+"I have symptoms such as diarrhea, vomiting, sunken eyes. What the name of the disease?",Gastroenteritis
+"I have symptoms such as vomiting, diarrhea. What the name of the disease?",Gastroenteritis
+"I have symptoms such as diarrhea, dehydration. What the name of the disease?",Gastroenteritis
+"I have symptoms such as vomiting, sunken eyes, dehydration. What the name of the disease?",Gastroenteritis
+"I have symptoms such as vomiting, dehydration. What the name of the disease?",Gastroenteritis
+"I have symptoms such as breathlessness, high fever, mucoid sputum, fatigue, family history. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as family history, cough, fatigue, breathlessness. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as fatigue, breathlessness, family history, high fever, mucoid sputum. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as family history, mucoid sputum, high fever, fatigue, cough. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as cough, breathlessness, family history, mucoid sputum. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as high fever, mucoid sputum, fatigue, breathlessness. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as mucoid sputum, breathlessness, family history, high fever. What the name of the disease?",Bronchial Asthma
+"I have symptoms such as lack of concentration, headache, dizziness, chest pain, loss of balance. What the name of the disease?",Hypertension
+"I have symptoms such as dizziness, headache, chest pain. What the name of the disease?",Hypertension
+"I have symptoms such as headache, chest pain, loss of balance. What the name of the disease?",Hypertension
+"I have symptoms such as lack of concentration, loss of balance, chest pain, dizziness. What the name of the disease?",Hypertension
+"I have symptoms such as loss of balance, chest pain, headache, dizziness. What the name of the disease?",Hypertension
+"I have symptoms such as headache, loss of balance, dizziness. What the name of the disease?",Hypertension
+"I have symptoms such as stiff neck, headache, excessive hunger, depression, irritability, acidity, indigestion. What the name of the disease?",Migraine
+"I have symptoms such as indigestion, acidity, blurred and distorted vision, visual disturbances, depression, irritability, excessive hunger, stiff neck. What the name of the disease?",Migraine
+"I have symptoms such as stiff neck, visual disturbances, acidity, excessive hunger, blurred and distorted vision, irritability, indigestion. What the name of the disease?",Migraine
+"I have symptoms such as blurred and distorted vision, indigestion, excessive hunger, headache, visual disturbances, stiff neck, acidity, depression. What the name of the disease?",Migraine
+"I have symptoms such as indigestion, visual disturbances, irritability, excessive hunger, stiff neck, depression, headache, blurred and distorted vision. What the name of the disease?",Migraine
+"I have symptoms such as irritability, stiff neck, depression, headache, excessive hunger, blurred and distorted vision, visual disturbances, acidity. What the name of the disease?",Migraine
+"I have symptoms such as depression, indigestion, stiff neck, acidity, headache, blurred and distorted vision, irritability. What the name of the disease?",Migraine
+"I have symptoms such as depression, acidity, headache, stiff neck, irritability, blurred and distorted vision, indigestion, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as acidity, depression, stiff neck, indigestion, irritability, blurred and distorted vision, headache, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as headache, acidity, excessive hunger, indigestion, depression, blurred and distorted vision, irritability, visual disturbances. What the name of the disease?",Migraine
+"I have symptoms such as dizziness, neck pain, weakness in limbs, loss of balance. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as dizziness, loss of balance, neck pain, weakness in limbs, back pain. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as back pain, neck pain, weakness in limbs, loss of balance. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as weakness in limbs, back pain, loss of balance. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as dizziness, back pain, neck pain. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as dizziness, neck pain, back pain. What the name of the disease?",Cervical spondylosis
+"I have symptoms such as vomiting, altered sensorium, weakness of one body side. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as weakness of one body side, vomiting. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as headache, weakness of one body side. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as altered sensorium, vomiting, headache. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as weakness of one body side, altered sensorium, vomiting, headache. What the name of the disease?",Paralysis (brain hemorrhage)
+"I have symptoms such as fatigue, dark urine, weight loss, itching, abdominal pain, high fever. What the name of the disease?",Jaundice
+"I have symptoms such as abdominal pain, vomiting, itching, yellowish skin, high fever, dark urine, weight loss. What the name of the disease?",Jaundice
+"I have symptoms such as high fever, fatigue, yellowish skin, vomiting, itching, weight loss. What the name of the disease?",Jaundice
+"I have symptoms such as fatigue, weight loss, yellowish skin, high fever, dark urine, vomiting. What the name of the disease?",Jaundice
+"I have symptoms such as fatigue, itching, yellowish skin, abdominal pain, high fever, dark urine, vomiting. What the name of the disease?",Jaundice
+"I have symptoms such as dark urine, vomiting, high fever, weight loss, itching, fatigue, abdominal pain. What the name of the disease?",Jaundice
+"I have symptoms such as vomiting, dark urine, yellowish skin, fatigue, high fever, itching, weight loss. What the name of the disease?",Jaundice
+"I have symptoms such as abdominal pain, weight loss, fatigue, itching, vomiting, dark urine, yellowish skin. What the name of the disease?",Jaundice
+"I have symptoms such as vomiting, weight loss, dark urine, itching, high fever, yellowish skin, fatigue, abdominal pain. What the name of the disease?",Jaundice
+"I have symptoms such as muscle pain, chills, vomiting, diarrhea, high fever, nausea. What the name of the disease?",Malaria
+"I have symptoms such as diarrhea, sweating, nausea, high fever, headache, muscle pain, chills. What the name of the disease?",Malaria
+"I have symptoms such as muscle pain, nausea, chills, vomiting, headache, diarrhea, high fever, sweating. What the name of the disease?",Malaria
+"I have symptoms such as vomiting, chills, headache, sweating, nausea, muscle pain. What the name of the disease?",Malaria
+"I have symptoms such as diarrhea, headache, muscle pain, vomiting, nausea, sweating. What the name of the disease?",Malaria
+"I have symptoms such as sweating, headache, chills, vomiting, muscle pain, high fever. What the name of the disease?",Malaria
+"I have symptoms such as diarrhea, high fever, vomiting, headache, sweating, chills. What the name of the disease?",Malaria
+"I have symptoms such as nausea, diarrhea, muscle pain, vomiting, headache, chills, high fever. What the name of the disease?",Malaria
+"I have symptoms such as mild fever, skin rash, swelled lymph nodes, high fever, loss of appetite, malaise, headache, red spots over body, lethargy, fatigue, itching. What the name of the disease?",Chicken pox
+"I have symptoms such as swelled lymph nodes, lethargy, skin rash, mild fever, headache, red spots over body, loss of appetite, high fever, malaise, itching. What the name of the disease?",Chicken pox
+"I have symptoms such as mild fever, itching, lethargy, loss of appetite, headache, fatigue, high fever, swelled lymph nodes, malaise, red spots over body. What the name of the disease?",Chicken pox
+"I have symptoms such as red spots over body, high fever, headache, itching, loss of appetite, malaise, fatigue, swelled lymph nodes, skin rash. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, mild fever, malaise, high fever, swelled lymph nodes, lethargy, itching, skin rash, headache. What the name of the disease?",Chicken pox
+"I have symptoms such as loss of appetite, lethargy, itching, red spots over body, fatigue, swelled lymph nodes, mild fever, skin rash, malaise, high fever. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, headache, swelled lymph nodes. What the name of the disease?",Chicken pox
+"I have symptoms such as itching, malaise, headache, mild fever, fatigue, red spots over body, swelled lymph nodes, loss of appetite, lethargy. What the name of the disease?",Chicken pox
+"I have symptoms such as headache, malaise, fatigue, mild fever, lethargy, loss of appetite, high fever, skin rash, itching, red spots over body. What the name of the disease?",Chicken pox
+"I have symptoms such as fatigue, headache, red spots over body, swelled lymph nodes, skin rash, itching, loss of appetite, malaise, mild fever, high fever. What the name of the disease?",Chicken pox
+"I have symptoms such as nausea, back pain, muscle pain, vomiting, skin rash, joint pain, pain behind the eyes, red spots over body, chills, headache, loss of appetite, malaise. What the name of the disease?",Dengue
+"I have symptoms such as malaise, fatigue, vomiting, red spots over body, back pain, chills, pain behind the eyes, nausea, high fever, headache, joint pain, loss of appetite, skin rash. What the name of the disease?",Dengue
+"I have symptoms such as fatigue, pain behind the eyes, skin rash, vomiting, loss of appetite, back pain, joint pain, high fever, chills, red spots over body, nausea. What the name of the disease?",Dengue
+"I have symptoms such as nausea, headache, chills, pain behind the eyes, vomiting, skin rash, back pain, loss of appetite, fatigue, muscle pain, red spots over body, malaise. What the name of the disease?",Dengue
+"I have symptoms such as vomiting, muscle pain, pain behind the eyes, malaise, nausea, joint pain, headache, fatigue, back pain, high fever, chills. What the name of the disease?",Dengue
+"I have symptoms such as high fever, back pain, headache, fatigue, chills, malaise, nausea, skin rash, joint pain, pain behind the eyes, muscle pain. What the name of the disease?",Dengue
+"I have symptoms such as malaise, loss of appetite, chills, high fever, nausea, skin rash, back pain, vomiting, red spots over body, headache, fatigue, joint pain. What the name of the disease?",Dengue
+"I have symptoms such as headache, muscle pain, vomiting, back pain, red spots over body, pain behind the eyes, skin rash, joint pain, malaise, high fever, chills, loss of appetite, nausea. What the name of the disease?",Dengue
+"I have symptoms such as pain behind the eyes, loss of appetite, muscle pain, headache, joint pain, skin rash, high fever, nausea, fatigue, red spots over body, back pain. What the name of the disease?",Dengue
+"I have symptoms such as malaise, skin rash, headache, chills, loss of appetite, back pain, nausea, vomiting, muscle pain, pain behind the eyes, high fever, joint pain. What the name of the disease?",Dengue
+"I have symptoms such as high fever, chills, belly pain, vomiting, diarrhea, abdominal pain, nausea, fatigue, constipation, toxic look (typhos), headache. What the name of the disease?",Typhoid
+"I have symptoms such as diarrhea, belly pain, nausea, vomiting, fatigue, constipation, abdominal pain, headache, high fever, chills. What the name of the disease?",Typhoid
+"I have symptoms such as constipation, headache, nausea, toxic look (typhos), high fever, vomiting, diarrhea, belly pain, chills. What the name of the disease?",Typhoid
+"I have symptoms such as diarrhea, abdominal pain, chills, constipation, nausea, headache, fatigue, high fever, toxic look (typhos). What the name of the disease?",Typhoid
+"I have symptoms such as chills, fatigue, toxic look (typhos), high fever, abdominal pain, belly pain, vomiting, constipation, headache. What the name of the disease?",Typhoid
+"I have symptoms such as high fever, diarrhea, constipation, toxic look (typhos), fatigue, belly pain, headache, abdominal pain, chills, vomiting. What the name of the disease?",Typhoid
+"I have symptoms such as high fever, vomiting, nausea, constipation, abdominal pain, toxic look (typhos), fatigue, headache, chills. What the name of the disease?",Typhoid
+"I have symptoms such as abdominal pain, nausea, headache, belly pain, fatigue, vomiting, toxic look (typhos), diarrhea, high fever. What the name of the disease?",Typhoid
+"I have symptoms such as high fever, nausea, belly pain, vomiting, fatigue, toxic look (typhos), constipation, diarrhea, chills. What the name of the disease?",Typhoid
+"I have symptoms such as dark urine, yellowing of eyes, mild fever, abdominal pain, yellowish skin, vomiting, loss of appetite, muscle pain, joint pain. What the name of the disease?",hepatitis A
+"I have symptoms such as nausea, diarrhea, abdominal pain, yellowing of eyes, muscle pain, dark urine, joint pain, yellowish skin, mild fever, loss of appetite. What the name of the disease?",hepatitis A
+"I have symptoms such as vomiting, yellowing of eyes, nausea, joint pain, mild fever, diarrhea, abdominal pain, muscle pain, yellowish skin. What the name of the disease?",hepatitis A
+"I have symptoms such as dark urine, yellowish skin, mild fever, abdominal pain, muscle pain, vomiting, yellowing of eyes, joint pain, diarrhea. What the name of the disease?",hepatitis A
+"I have symptoms such as nausea, yellowish skin, diarrhea, joint pain, mild fever, dark urine, abdominal pain, muscle pain, vomiting, yellowing of eyes. What the name of the disease?",hepatitis A
+"I have symptoms such as yellowish skin, mild fever, dark urine, nausea, diarrhea, loss of appetite, yellowing of eyes, muscle pain, vomiting, abdominal pain. What the name of the disease?",hepatitis A
+"I have symptoms such as nausea, yellowing of eyes, muscle pain, mild fever, diarrhea, dark urine, loss of appetite, abdominal pain, vomiting. What the name of the disease?",hepatitis A
+"I have symptoms such as muscle pain, loss of appetite, yellowing of eyes, yellowish skin, abdominal pain, vomiting, diarrhea, dark urine, joint pain. What the name of the disease?",hepatitis A
+"I have symptoms such as joint pain, yellowing of eyes, loss of appetite, dark urine, nausea, mild fever, muscle pain, yellowish skin, vomiting, diarrhea. What the name of the disease?",hepatitis A
+"I have symptoms such as fatigue, abdominal pain, yellowing of eyes, lethargy, itching, malaise, receiving blood transfusion, loss of appetite, yellowish skin, yellow urine, receiving unsterile injections. What the name of the disease?",Hepatitis B
+"I have symptoms such as receiving blood transfusion, yellow urine, lethargy, yellowish skin, abdominal pain, receiving unsterile injections, malaise, dark urine, fatigue. What the name of the disease?",Hepatitis B
+"I have symptoms such as yellowing of eyes, malaise, abdominal pain, dark urine, yellowish skin, receiving blood transfusion, loss of appetite, itching, receiving unsterile injections, yellow urine. What the name of the disease?",Hepatitis B
+"I have symptoms such as abdominal pain, yellow urine, lethargy, receiving unsterile injections, receiving blood transfusion, loss of appetite, fatigue, dark urine, itching. What the name of the disease?",Hepatitis B
+"I have symptoms such as abdominal pain, fatigue, loss of appetite, receiving unsterile injections, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, yellowish skin, dark urine, lethargy. What the name of the disease?",Hepatitis B
+"I have symptoms such as receiving unsterile injections, fatigue, yellowing of eyes, yellow urine, malaise, dark urine, loss of appetite, receiving blood transfusion, itching, abdominal pain, yellowish skin. What the name of the disease?",Hepatitis B
+"I have symptoms such as lethargy, yellow urine, receiving unsterile injections, fatigue, yellowish skin, malaise, dark urine, yellowing of eyes, loss of appetite, itching. What the name of the disease?",Hepatitis B
+"I have symptoms such as dark urine, itching, abdominal pain, receiving unsterile injections, lethargy, loss of appetite, yellowish skin, malaise, yellowing of eyes. What the name of the disease?",Hepatitis B
+"I have symptoms such as receiving blood transfusion, abdominal pain, yellow urine, loss of appetite, yellowing of eyes, fatigue, itching, yellowish skin, dark urine, lethargy, malaise, receiving unsterile injections. What the name of the disease?",Hepatitis B
+"I have symptoms such as loss of appetite, fatigue, family history, yellowish skin. What the name of the disease?",Hepatitis C
+"I have symptoms such as yellowish skin, family history, nausea, yellowing of eyes, loss of appetite. What the name of the disease?",Hepatitis C
+"I have symptoms such as fatigue, family history, nausea, yellowing of eyes. What the name of the disease?",Hepatitis C
+"I have symptoms such as loss of appetite, family history, nausea, yellowish skin, yellowing of eyes. What the name of the disease?",Hepatitis C
+"I have symptoms such as loss of appetite, family history, yellowish skin, fatigue. What the name of the disease?",Hepatitis C
+"I have symptoms such as yellowish skin, yellowing of eyes, nausea, fatigue. What the name of the disease?",Hepatitis C
+"I have symptoms such as family history, loss of appetite, yellowing of eyes, nausea. What the name of the disease?",Hepatitis C
+"I have symptoms such as yellowish skin, nausea, vomiting, abdominal pain, joint pain, yellowing of eyes, loss of appetite. What the name of the disease?",Hepatitis D
+"I have symptoms such as dark urine, fatigue, yellowish skin, abdominal pain, yellowing of eyes, vomiting, nausea. What the name of the disease?",Hepatitis D
+"I have symptoms such as nausea, dark urine, loss of appetite, fatigue, joint pain, abdominal pain, yellowish skin, yellowing of eyes. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, fatigue, nausea, dark urine, joint pain, vomiting, yellowing of eyes, loss of appetite, yellowish skin. What the name of the disease?",Hepatitis D
+"I have symptoms such as vomiting, yellowish skin, joint pain, nausea, yellowing of eyes, dark urine, fatigue, abdominal pain. What the name of the disease?",Hepatitis D
+"I have symptoms such as yellowish skin, yellowing of eyes, loss of appetite, vomiting, dark urine, joint pain, fatigue, nausea. What the name of the disease?",Hepatitis D
+"I have symptoms such as nausea, yellowish skin, abdominal pain, joint pain, loss of appetite, vomiting, dark urine, yellowing of eyes. What the name of the disease?",Hepatitis D
+"I have symptoms such as abdominal pain, loss of appetite, dark urine, vomiting, yellowish skin, yellowing of eyes, fatigue. What the name of the disease?",Hepatitis D
+"I have symptoms such as nausea, yellowish skin, abdominal pain, fatigue, vomiting, loss of appetite, joint pain. What the name of the disease?",Hepatitis D
+"I have symptoms such as nausea, vomiting, loss of appetite, dark urine, joint pain, abdominal pain, fatigue, yellowing of eyes. What the name of the disease?",Hepatitis D
+"I have symptoms such as high fever, yellowing of eyes, fatigue, joint pain, acute liver failure, coma, dark urine, nausea, abdominal pain, stomach bleeding. What the name of the disease?",Hepatitis E
+"I have symptoms such as nausea, yellowing of eyes, stomach bleeding, yellowish skin, high fever, coma, vomiting, loss of appetite, dark urine, joint pain, abdominal pain. What the name of the disease?",Hepatitis E
+"I have symptoms such as yellowing of eyes, high fever, fatigue, dark urine, abdominal pain, loss of appetite, joint pain, yellowish skin, acute liver failure, coma, vomiting, nausea, stomach bleeding. What the name of the disease?",Hepatitis E
+"I have symptoms such as yellowish skin, nausea, loss of appetite, abdominal pain, joint pain, coma, yellowing of eyes, stomach bleeding, fatigue, vomiting, dark urine. What the name of the disease?",Hepatitis E
+"I have symptoms such as acute liver failure, yellowish skin, high fever, loss of appetite, stomach bleeding, vomiting, coma, joint pain, yellowing of eyes, abdominal pain, fatigue, nausea. What the name of the disease?",Hepatitis E
+"I have symptoms such as nausea, dark urine, acute liver failure, coma, yellowish skin, stomach bleeding, loss of appetite, high fever, fatigue, yellowing of eyes. What the name of the disease?",Hepatitis E
+"I have symptoms such as yellowish skin, yellowing of eyes, coma, abdominal pain, fatigue, loss of appetite, vomiting, acute liver failure, stomach bleeding, high fever. What the name of the disease?",Hepatitis E
+"I have symptoms such as stomach bleeding, vomiting, yellowish skin, acute liver failure, fatigue, joint pain, yellowing of eyes, dark urine, loss of appetite, nausea, coma. What the name of the disease?",Hepatitis E
+"I have symptoms such as high fever, loss of appetite, coma, yellowish skin, fatigue, stomach bleeding, yellowing of eyes, nausea, abdominal pain, dark urine, vomiting. What the name of the disease?",Hepatitis E
+"I have symptoms such as abdominal pain, fluid overload, swelling of stomach, yellowish skin, vomiting, history of alcohol consumption. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as fluid overload, distention of abdomen, vomiting, abdominal pain, swelling of stomach, history of alcohol consumption. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as history of alcohol consumption, fluid overload, vomiting, distention of abdomen, yellowish skin. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as distention of abdomen, abdominal pain, swelling of stomach, yellowish skin, history of alcohol consumption, vomiting. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as fluid overload, vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as abdominal pain, yellowish skin, history of alcohol consumption, distention of abdomen, vomiting, fluid overload. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as swelling of stomach, history of alcohol consumption, vomiting, abdominal pain, yellowish skin, fluid overload. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as history of alcohol consumption, swelling of stomach, distention of abdomen, fluid overload, yellowish skin. What the name of the disease?",Alcoholic hepatitis
+"I have symptoms such as sweating, yellowing of eyes, chills, weight loss, vomiting, fatigue, swelled lymph nodes, phlegm, cough, loss of appetite, mild fever, malaise, high fever. What the name of the disease?",Tuberculosis
+"I have symptoms such as high fever, swelled lymph nodes, vomiting, yellowing of eyes, chest pain, sweating, mild fever, cough, blood in sputum, weight loss, phlegm, malaise, loss of appetite. What the name of the disease?",Tuberculosis
+"I have symptoms such as cough, sweating, loss of appetite, vomiting, mild fever, weight loss, malaise, fatigue, yellowing of eyes, phlegm, chest pain, blood in sputum, breathlessness. What the name of the disease?",Tuberculosis
+"I have symptoms such as mild fever, breathlessness, fatigue, loss of appetite, swelled lymph nodes, phlegm, chest pain, sweating, cough, high fever, yellowing of eyes, blood in sputum, malaise. What the name of the disease?",Tuberculosis
+"I have symptoms such as phlegm, blood in sputum, breathlessness, swelled lymph nodes, fatigue, chills, weight loss, sweating, malaise, high fever, mild fever, chest pain, loss of appetite. What the name of the disease?",Tuberculosis
+"I have symptoms such as sweating, fatigue, yellowing of eyes, chest pain, phlegm, blood in sputum, cough, chills, swelled lymph nodes, loss of appetite, weight loss, malaise, vomiting, mild fever. What the name of the disease?",Tuberculosis
+"I have symptoms such as chest pain, high fever, breathlessness, fatigue, sweating, phlegm, chills, vomiting, loss of appetite, malaise, mild fever, blood in sputum, swelled lymph nodes, cough, yellowing of eyes, weight loss. What the name of the disease?",Tuberculosis
+"I have symptoms such as high fever, blood in sputum, mild fever, breathlessness, malaise, chills, loss of appetite, fatigue, yellowing of eyes, phlegm, weight loss, swelled lymph nodes, cough. What the name of the disease?",Tuberculosis
+"I have symptoms such as chest pain, weight loss, mild fever, fatigue, yellowing of eyes, loss of appetite, blood in sputum, chills, sweating, high fever, malaise, phlegm, swelled lymph nodes. What the name of the disease?",Tuberculosis
+"I have symptoms such as muscle pain, malaise, runny nose, swelled lymph nodes, continuous sneezing, sinus pressure, headache, throat irritation, congestion, loss of smell, cough, chest pain, high fever, phlegm. What the name of the disease?",Common Cold
+"I have symptoms such as continuous sneezing, chills, muscle pain, throat irritation, fatigue, sinus pressure, congestion, redness of eyes, high fever, malaise, headache, swelled lymph nodes, phlegm, runny nose, chest pain, loss of smell. What the name of the disease?",Common Cold
+"I have symptoms such as swelled lymph nodes, malaise, high fever, loss of smell, headache, continuous sneezing, fatigue, throat irritation, sinus pressure, cough, runny nose, redness of eyes, muscle pain, congestion, chest pain, phlegm. What the name of the disease?",Common Cold
+"I have symptoms such as swelled lymph nodes, sinus pressure, runny nose, chest pain, continuous sneezing, cough, throat irritation, congestion, chills, loss of smell, redness of eyes, headache, high fever, fatigue. What the name of the disease?",Common Cold
+"I have symptoms such as chills, high fever, cough, sinus pressure, muscle pain, chest pain, loss of smell, redness of eyes, throat irritation, swelled lymph nodes, fatigue, phlegm, congestion, malaise, headache, continuous sneezing, runny nose. What the name of the disease?",Common Cold
+"I have symptoms such as high fever, sinus pressure, chest pain, chills, redness of eyes, malaise, congestion, swelled lymph nodes, runny nose, fatigue, phlegm, headache, muscle pain, cough, loss of smell, throat irritation. What the name of the disease?",Common Cold
+"I have symptoms such as phlegm, continuous sneezing, malaise, throat irritation, loss of smell, redness of eyes, muscle pain, runny nose, sinus pressure, congestion, headache, fatigue, chills, cough, chest pain. What the name of the disease?",Common Cold
+"I have symptoms such as throat irritation, fatigue, cough, chest pain, headache, congestion, loss of smell, continuous sneezing, sinus pressure, muscle pain, high fever, chills, phlegm, redness of eyes, malaise, runny nose. What the name of the disease?",Common Cold
+"I have symptoms such as malaise, chills, muscle pain, loss of smell, cough, throat irritation, chest pain, fatigue, congestion, continuous sneezing, phlegm, sinus pressure, runny nose, swelled lymph nodes. What the name of the disease?",Common Cold
+"I have symptoms such as breathlessness, phlegm, rusty sputum, malaise, fast heart rate, cough, chest pain, chills, fatigue, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as phlegm, fatigue, fast heart rate, malaise, breathlessness, chills, cough, chest pain, rusty sputum, high fever. What the name of the disease?",Pneumonia
+"I have symptoms such as cough, fast heart rate, sweating, breathlessness, fatigue, high fever, chest pain, malaise, phlegm, rusty sputum. What the name of the disease?",Pneumonia
+"I have symptoms such as chills, cough, sweating, chest pain, fatigue, fast heart rate, rusty sputum, phlegm, malaise. What the name of the disease?",Pneumonia
+"I have symptoms such as chest pain, sweating, rusty sputum, fatigue, fast heart rate, breathlessness, chills, malaise, phlegm, high fever. What the name of the disease?",Pneumonia
+"I have symptoms such as sweating, high fever, malaise, rusty sputum, chills, fatigue, chest pain, cough, breathlessness, fast heart rate. What the name of the disease?",Pneumonia
+"I have symptoms such as malaise, chest pain, rusty sputum, fast heart rate, fatigue, high fever, chills, breathlessness, phlegm, sweating. What the name of the disease?",Pneumonia
+"I have symptoms such as malaise, rusty sputum, chest pain, phlegm, cough, high fever, breathlessness, chills, fast heart rate. What the name of the disease?",Pneumonia
+"I have symptoms such as cough, breathlessness, fast heart rate, chest pain, fatigue, rusty sputum, sweating, chills, high fever, phlegm. What the name of the disease?",Pneumonia
+"I have symptoms such as pain during bowel movements, bloody stool, pain in anal region, irritation in anus. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as pain in anal region, pain during bowel movements, irritation in anus, bloody stool. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as irritation in anus, bloody stool, constipation. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as pain during bowel movements, constipation, bloody stool, irritation in anus. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as pain in anal region, bloody stool, constipation, pain during bowel movements. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as constipation, pain in anal region, pain during bowel movements, irritation in anus. What the name of the disease?",Dimorphic hemorrhoids(piles)
+"I have symptoms such as sweating, breathlessness, chest pain, vomiting. What the name of the disease?",Heart attack
+"I have symptoms such as chest pain, sweating. What the name of the disease?",Heart attack
+"I have symptoms such as sweating, breathlessness, vomiting. What the name of the disease?",Heart attack
+"I have symptoms such as vomiting, chest pain, breathlessness. What the name of the disease?",Heart attack
+"I have symptoms such as vomiting, chest pain, sweating. What the name of the disease?",Heart attack
+"I have symptoms such as obesity, bruising, fatigue, swollen blood vessels, prominent veins on calf, cramps. What the name of the disease?",Varicose veins
+"I have symptoms such as bruising, obesity, swollen legs, prominent veins on calf, fatigue, swollen blood vessels, cramps. What the name of the disease?",Varicose veins
+"I have symptoms such as swollen blood vessels, bruising, cramps, fatigue, swollen legs, obesity. What the name of the disease?",Varicose veins
+"I have symptoms such as fatigue, bruising, prominent veins on calf, swollen legs, cramps. What the name of the disease?",Varicose veins
+"I have symptoms such as bruising, obesity, swollen blood vessels, prominent veins on calf, cramps. What the name of the disease?",Varicose veins
+"I have symptoms such as swollen blood vessels, fatigue, prominent veins on calf, obesity, swollen legs. What the name of the disease?",Varicose veins
+"I have symptoms such as swollen legs, cramps, prominent veins on calf, fatigue, swollen blood vessels. What the name of the disease?",Varicose veins
+"I have symptoms such as bruising, swollen blood vessels, obesity, swollen legs, fatigue, prominent veins on calf. What the name of the disease?",Varicose veins
+"I have symptoms such as enlarged thyroid, fatigue, swollen extremeties, depression, puffy face and eyes, cold hands and feets, dizziness, abnormal menstruation, weight gain, irritability, brittle nails. What the name of the disease?",Hypothyroidism
+"I have symptoms such as cold hands and feets, brittle nails, abnormal menstruation, mood swings, puffy face and eyes, dizziness, fatigue, depression, swollen extremeties, lethargy, weight gain, enlarged thyroid, irritability. What the name of the disease?",Hypothyroidism
+"I have symptoms such as enlarged thyroid, dizziness, puffy face and eyes, abnormal menstruation, mood swings, irritability, brittle nails, depression, lethargy, weight gain, fatigue. What the name of the disease?",Hypothyroidism
+"I have symptoms such as enlarged thyroid, dizziness, weight gain, swollen extremeties, abnormal menstruation, brittle nails, irritability, depression, puffy face and eyes, cold hands and feets. What the name of the disease?",Hypothyroidism
+"I have symptoms such as depression, enlarged thyroid, puffy face and eyes, fatigue, dizziness, cold hands and feets, irritability, mood swings, swollen extremeties, abnormal menstruation, brittle nails. What the name of the disease?",Hypothyroidism
+"I have symptoms such as lethargy, swollen extremeties, abnormal menstruation, brittle nails, weight gain, fatigue, dizziness, depression, cold hands and feets, enlarged thyroid. What the name of the disease?",Hypothyroidism
+"I have symptoms such as brittle nails, mood swings, depression, enlarged thyroid, lethargy, dizziness, weight gain, cold hands and feets, swollen extremeties, abnormal menstruation, irritability, puffy face and eyes. What the name of the disease?",Hypothyroidism
+"I have symptoms such as puffy face and eyes, brittle nails, depression, swollen extremeties, enlarged thyroid, irritability, weight gain, abnormal menstruation, lethargy, cold hands and feets, fatigue, mood swings. What the name of the disease?",Hypothyroidism
+"I have symptoms such as restlessness, abnormal menstruation, weight loss, muscle weakness, fatigue, excessive hunger, irritability, sweating, diarrhea. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as sweating, abnormal menstruation, fast heart rate, mood swings, irritability, weight loss, diarrhea, fatigue, muscle weakness. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as restlessness, fast heart rate, sweating, fatigue, irritability, mood swings, abnormal menstruation, diarrhea, muscle weakness, excessive hunger. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as diarrhea, muscle weakness, excessive hunger, sweating, irritability, mood swings, abnormal menstruation, weight loss, fast heart rate. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, diarrhea, excessive hunger, irritability, fast heart rate, weight loss, mood swings, fatigue, sweating, muscle weakness. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as abnormal menstruation, weight loss, muscle weakness, restlessness, sweating, mood swings, excessive hunger, diarrhea, fatigue, irritability. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as fatigue, diarrhea, excessive hunger, mood swings, irritability, weight loss, restlessness, abnormal menstruation, muscle weakness. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as irritability, fatigue, sweating, muscle weakness, abnormal menstruation, weight loss, mood swings, restlessness, fast heart rate, diarrhea, excessive hunger. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as irritability, sweating, fatigue, weight loss, mood swings, abnormal menstruation, muscle weakness, excessive hunger, restlessness, fast heart rate. What the name of the disease?",Hyperthyroidism
+"I have symptoms such as palpitations, vomiting, drying and tingling lips, fatigue, blurred and distorted vision, irritability, slurred speech, anxiety, nausea. What the name of the disease?",Hypoglycemia
+"I have symptoms such as headache, irritability, sweating, excessive hunger, slurred speech, fatigue, drying and tingling lips, anxiety, palpitations. What the name of the disease?",Hypoglycemia
+"I have symptoms such as headache, palpitations, irritability, vomiting, nausea, drying and tingling lips, anxiety, fatigue, excessive hunger, blurred and distorted vision, slurred speech. What the name of the disease?",Hypoglycemia
+"I have symptoms such as drying and tingling lips, irritability, excessive hunger, sweating, nausea, vomiting, fatigue, anxiety, palpitations, blurred and distorted vision, headache, slurred speech. What the name of the disease?",Hypoglycemia
+"I have symptoms such as drying and tingling lips, vomiting, slurred speech, blurred and distorted vision, anxiety, sweating, excessive hunger, headache, fatigue. What the name of the disease?",Hypoglycemia
+"I have symptoms such as palpitations, anxiety, excessive hunger, drying and tingling lips, slurred speech, headache, vomiting, sweating, nausea. What the name of the disease?",Hypoglycemia
+"I have symptoms such as slurred speech, blurred and distorted vision, sweating, irritability, excessive hunger, fatigue, nausea, vomiting, headache. What the name of the disease?",Hypoglycemia
+"I have symptoms such as sweating, fatigue, anxiety, palpitations, nausea, excessive hunger, slurred speech, drying and tingling lips, irritability, blurred and distorted vision, headache. What the name of the disease?",Hypoglycemia
+"I have symptoms such as nausea, vomiting, slurred speech, palpitations, blurred and distorted vision, anxiety, headache, sweating, excessive hunger, irritability, fatigue. What the name of the disease?",Hypoglycemia
+"I have symptoms such as swelling joints, hip joint pain, joint pain, painful walking, knee pain. What the name of the disease?",Osteoarthristis
+"I have symptoms such as swelling joints, joint pain, neck pain, painful walking. What the name of the disease?",Osteoarthristis
+"I have symptoms such as knee pain, swelling joints, painful walking, neck pain, hip joint pain. What the name of the disease?",Osteoarthristis
+"I have symptoms such as painful walking, neck pain, swelling joints, hip joint pain. What the name of the disease?",Osteoarthristis
+"I have symptoms such as neck pain, painful walking, joint pain, knee pain, hip joint pain. What the name of the disease?",Osteoarthristis
+"I have symptoms such as knee pain, hip joint pain, neck pain, joint pain, swelling joints. What the name of the disease?",Osteoarthristis
+"I have symptoms such as hip joint pain, painful walking, neck pain, swelling joints, joint pain. What the name of the disease?",Osteoarthristis
+"I have symptoms such as muscle weakness, movement stiffness, stiff neck, swelling joints. What the name of the disease?",Arthritis
+"I have symptoms such as movement stiffness, muscle weakness, painful walking, swelling joints. What the name of the disease?",Arthritis
+"I have symptoms such as movement stiffness, swelling joints, stiff neck. What the name of the disease?",Arthritis
+"I have symptoms such as muscle weakness, swelling joints, painful walking, stiff neck. What the name of the disease?",Arthritis
+"I have symptoms such as stiff neck, muscle weakness, swelling joints, painful walking. What the name of the disease?",Arthritis
+"I have symptoms such as painful walking, movement stiffness, stiff neck. What the name of the disease?",Arthritis
+"I have symptoms such as headache, vomiting, spinning movements, nausea, loss of balance. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as unsteadiness, vomiting, nausea, loss of balance. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as spinning movements, nausea, loss of balance, headache. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as headache, unsteadiness, spinning movements, nausea. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as nausea, vomiting, loss of balance, unsteadiness, headache. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as vomiting, loss of balance, headache, unsteadiness, spinning movements. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as spinning movements, vomiting, headache, loss of balance, nausea, unsteadiness. What the name of the disease?",(vertigo) Paroymsal  Positional Vertigo
+"I have symptoms such as blackheads, skin rash, scurring. What the name of the disease?",Acne
+"I have symptoms such as pus filled pimples, scurring, skin rash. What the name of the disease?",Acne
+"I have symptoms such as blackheads, scurring. What the name of the disease?",Acne
+"I have symptoms such as pus filled pimples, blackheads, skin rash. What the name of the disease?",Acne
+"I have symptoms such as scurring, pus filled pimples, skin rash. What the name of the disease?",Acne
+"I have symptoms such as foul smell of urine, continuous feel of urine, bladder discomfort. What the name of the disease?",Urinary tract infection
+"I have symptoms such as foul smell of urine, burning micturition. What the name of the disease?",Urinary tract infection
+"I have symptoms such as burning micturition, bladder discomfort, continuous feel of urine. What the name of the disease?",Urinary tract infection
+"I have symptoms such as bladder discomfort, foul smell of urine, burning micturition, continuous feel of urine. What the name of the disease?",Urinary tract infection
+"I have symptoms such as burning micturition, continuous feel of urine, foul smell of urine. What the name of the disease?",Urinary tract infection
+"I have symptoms such as small dents in nails, joint pain, silver like dusting, skin peeling, skin rash. What the name of the disease?",Psoriasis
+"I have symptoms such as small dents in nails, silver like dusting, inflammatory nails, skin rash, joint pain. What the name of the disease?",Psoriasis
+"I have symptoms such as inflammatory nails, small dents in nails, skin rash, skin peeling, joint pain. What the name of the disease?",Psoriasis
+"I have symptoms such as small dents in nails, skin peeling, inflammatory nails, silver like dusting, joint pain. What the name of the disease?",Psoriasis
+"I have symptoms such as skin rash, silver like dusting, small dents in nails, skin peeling, joint pain, inflammatory nails. What the name of the disease?",Psoriasis
+"I have symptoms such as joint pain, inflammatory nails, skin peeling, silver like dusting, skin rash. What the name of the disease?",Psoriasis
+"I have symptoms such as skin peeling, small dents in nails, skin rash, silver like dusting, inflammatory nails. What the name of the disease?",Psoriasis
+"I have symptoms such as yellow crust ooze, high fever, blister, skin rash. What the name of the disease?",Impetigo
+"I have symptoms such as high fever, skin rash, blister. What the name of the disease?",Impetigo
+"I have symptoms such as skin rash, yellow crust ooze, blister, red sore around nose. What the name of the disease?",Impetigo
+"I have symptoms such as blister, skin rash, red sore around nose, yellow crust ooze. What the name of the disease?",Impetigo
+"I have symptoms such as red sore around nose, yellow crust ooze, high fever, blister. What the name of the disease?",Impetigo
+"I have symptoms such as skin rash, red sore around nose, high fever. What the name of the disease?",Impetigo
