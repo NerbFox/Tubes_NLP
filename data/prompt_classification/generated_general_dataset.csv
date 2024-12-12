@@ -1,0 +1,801 @@
+Question,qtype
+I have Hypertension,general
+I feel Hypertension,general
+Do I have Hypertension?,general
+Is it possible that I have Hypertension?,general
+I'm experiencing Hypertension,general
+Could Hypertension be affecting me?,general
+I'm suffering from Hypertension,general
+I think I might have Hypertension,general
+I have Alcoholic hepatitis,general
+I feel Alcoholic hepatitis,general
+Do I have Alcoholic hepatitis?,general
+Is it possible that I have Alcoholic hepatitis?,general
+I'm experiencing Alcoholic hepatitis,general
+Could Alcoholic hepatitis be affecting me?,general
+I'm suffering from Alcoholic hepatitis,general
+I think I might have Alcoholic hepatitis,general
+I have dehydration,general
+I feel dehydration,general
+Do I have dehydration?,general
+Is it possible that I have dehydration?,general
+I'm experiencing dehydration,general
+Could dehydration be affecting me?,general
+I'm suffering from dehydration,general
+I think I might have dehydration,general
+I have (vertigo) Paroymsal  Positional Vertigo,general
+I feel (vertigo) Paroymsal  Positional Vertigo,general
+Do I have (vertigo) Paroymsal  Positional Vertigo?,general
+Is it possible that I have (vertigo) Paroymsal  Positional Vertigo?,general
+I'm experiencing (vertigo) Paroymsal  Positional Vertigo,general
+Could (vertigo) Paroymsal  Positional Vertigo be affecting me?,general
+I'm suffering from (vertigo) Paroymsal  Positional Vertigo,general
+I think I might have (vertigo) Paroymsal  Positional Vertigo,general
+I have Peptic ulcer diseae,general
+I feel Peptic ulcer diseae,general
+Do I have Peptic ulcer diseae?,general
+Is it possible that I have Peptic ulcer diseae?,general
+I'm experiencing Peptic ulcer diseae,general
+Could Peptic ulcer diseae be affecting me?,general
+I'm suffering from Peptic ulcer diseae,general
+I think I might have Peptic ulcer diseae,general
+I have Malaria,general
+I feel Malaria,general
+Do I have Malaria?,general
+Is it possible that I have Malaria?,general
+I'm experiencing Malaria,general
+Could Malaria be affecting me?,general
+I'm suffering from Malaria,general
+I think I might have Malaria,general
+I have Acne,general
+I feel Acne,general
+Do I have Acne?,general
+Is it possible that I have Acne?,general
+I'm experiencing Acne,general
+Could Acne be affecting me?,general
+I'm suffering from Acne,general
+I think I might have Acne,general
+I have Hepatitis E,general
+I feel Hepatitis E,general
+Do I have Hepatitis E?,general
+Is it possible that I have Hepatitis E?,general
+I'm experiencing Hepatitis E,general
+Could Hepatitis E be affecting me?,general
+I'm suffering from Hepatitis E,general
+I think I might have Hepatitis E,general
+I have Arthritis,general
+I feel Arthritis,general
+Do I have Arthritis?,general
+Is it possible that I have Arthritis?,general
+I'm experiencing Arthritis,general
+Could Arthritis be affecting me?,general
+I'm suffering from Arthritis,general
+I think I might have Arthritis,general
+I have Psoriasis,general
+I feel Psoriasis,general
+Do I have Psoriasis?,general
+Is it possible that I have Psoriasis?,general
+I'm experiencing Psoriasis,general
+Could Psoriasis be affecting me?,general
+I'm suffering from Psoriasis,general
+I think I might have Psoriasis,general
+I have Hepatitis D,general
+I feel Hepatitis D,general
+Do I have Hepatitis D?,general
+Is it possible that I have Hepatitis D?,general
+I'm experiencing Hepatitis D,general
+Could Hepatitis D be affecting me?,general
+I'm suffering from Hepatitis D,general
+I think I might have Hepatitis D,general
+I have Hyperthyroidism,general
+I feel Hyperthyroidism,general
+Do I have Hyperthyroidism?,general
+Is it possible that I have Hyperthyroidism?,general
+I'm experiencing Hyperthyroidism,general
+Could Hyperthyroidism be affecting me?,general
+I'm suffering from Hyperthyroidism,general
+I think I might have Hyperthyroidism,general
+I have Impetigo,general
+I feel Impetigo,general
+Do I have Impetigo?,general
+Is it possible that I have Impetigo?,general
+I'm experiencing Impetigo,general
+Could Impetigo be affecting me?,general
+I'm suffering from Impetigo,general
+I think I might have Impetigo,general
+I have Impetigo,general
+I feel Impetigo,general
+Do I have Impetigo?,general
+Is it possible that I have Impetigo?,general
+I'm experiencing Impetigo,general
+Could Impetigo be affecting me?,general
+I'm suffering from Impetigo,general
+I think I might have Impetigo,general
+I have Dimorphic hemmorhoids(piles),general
+I feel Dimorphic hemmorhoids(piles),general
+Do I have Dimorphic hemmorhoids(piles)?,general
+Is it possible that I have Dimorphic hemmorhoids(piles)?,general
+I'm experiencing Dimorphic hemmorhoids(piles),general
+Could Dimorphic hemmorhoids(piles) be affecting me?,general
+I'm suffering from Dimorphic hemmorhoids(piles),general
+I think I might have Dimorphic hemmorhoids(piles),general
+I have Common Cold,general
+I feel Common Cold,general
+Do I have Common Cold?,general
+Is it possible that I have Common Cold?,general
+I'm experiencing Common Cold,general
+Could Common Cold be affecting me?,general
+I'm suffering from Common Cold,general
+I think I might have Common Cold,general
+I have Jaundice,general
+I feel Jaundice,general
+Do I have Jaundice?,general
+Is it possible that I have Jaundice?,general
+I'm experiencing Jaundice,general
+Could Jaundice be affecting me?,general
+I'm suffering from Jaundice,general
+I think I might have Jaundice,general
+I have Paralysis (brain hemorrhage),general
+I feel Paralysis (brain hemorrhage),general
+Do I have Paralysis (brain hemorrhage)?,general
+Is it possible that I have Paralysis (brain hemorrhage)?,general
+I'm experiencing Paralysis (brain hemorrhage),general
+Could Paralysis (brain hemorrhage) be affecting me?,general
+I'm suffering from Paralysis (brain hemorrhage),general
+I think I might have Paralysis (brain hemorrhage),general
+I have Chronic cholestasis,general
+I feel Chronic cholestasis,general
+Do I have Chronic cholestasis?,general
+Is it possible that I have Chronic cholestasis?,general
+I'm experiencing Chronic cholestasis,general
+Could Chronic cholestasis be affecting me?,general
+I'm suffering from Chronic cholestasis,general
+I think I might have Chronic cholestasis,general
+I have Acne,general
+I feel Acne,general
+Do I have Acne?,general
+Is it possible that I have Acne?,general
+I'm experiencing Acne,general
+Could Acne be affecting me?,general
+I'm suffering from Acne,general
+I think I might have Acne,general
+I have small_dents_in_nails,general
+I feel small_dents_in_nails,general
+Do I have small_dents_in_nails?,general
+Is it possible that I have small_dents_in_nails?,general
+I'm experiencing small_dents_in_nails,general
+Could small_dents_in_nails be affecting me?,general
+I'm suffering from small_dents_in_nails,general
+I think I might have small_dents_in_nails,general
+I have Urinary tract infection,general
+I feel Urinary tract infection,general
+Do I have Urinary tract infection?,general
+Is it possible that I have Urinary tract infection?,general
+I'm experiencing Urinary tract infection,general
+Could Urinary tract infection be affecting me?,general
+I'm suffering from Urinary tract infection,general
+I think I might have Urinary tract infection,general
+I have Pneumonia,general
+I feel Pneumonia,general
+Do I have Pneumonia?,general
+Is it possible that I have Pneumonia?,general
+I'm experiencing Pneumonia,general
+Could Pneumonia be affecting me?,general
+I'm suffering from Pneumonia,general
+I think I might have Pneumonia,general
+I have Drug Reaction,general
+I feel Drug Reaction,general
+Do I have Drug Reaction?,general
+Is it possible that I have Drug Reaction?,general
+I'm experiencing Drug Reaction,general
+Could Drug Reaction be affecting me?,general
+I'm suffering from Drug Reaction,general
+I think I might have Drug Reaction,general
+I have Dimorphic hemmorhoids(piles),general
+I feel Dimorphic hemmorhoids(piles),general
+Do I have Dimorphic hemmorhoids(piles)?,general
+Is it possible that I have Dimorphic hemmorhoids(piles)?,general
+I'm experiencing Dimorphic hemmorhoids(piles),general
+Could Dimorphic hemmorhoids(piles) be affecting me?,general
+I'm suffering from Dimorphic hemmorhoids(piles),general
+I think I might have Dimorphic hemmorhoids(piles),general
+I have Migraine,general
+I feel Migraine,general
+Do I have Migraine?,general
+Is it possible that I have Migraine?,general
+I'm experiencing Migraine,general
+Could Migraine be affecting me?,general
+I'm suffering from Migraine,general
+I think I might have Migraine,general
+I have Hepatitis C,general
+I feel Hepatitis C,general
+Do I have Hepatitis C?,general
+Is it possible that I have Hepatitis C?,general
+I'm experiencing Hepatitis C,general
+Could Hepatitis C be affecting me?,general
+I'm suffering from Hepatitis C,general
+I think I might have Hepatitis C,general
+I have Tuberculosis,general
+I feel Tuberculosis,general
+Do I have Tuberculosis?,general
+Is it possible that I have Tuberculosis?,general
+I'm experiencing Tuberculosis,general
+Could Tuberculosis be affecting me?,general
+I'm suffering from Tuberculosis,general
+I think I might have Tuberculosis,general
+I have (vertigo) Paroymsal  Positional Vertigo,general
+I feel (vertigo) Paroymsal  Positional Vertigo,general
+Do I have (vertigo) Paroymsal  Positional Vertigo?,general
+Is it possible that I have (vertigo) Paroymsal  Positional Vertigo?,general
+I'm experiencing (vertigo) Paroymsal  Positional Vertigo,general
+Could (vertigo) Paroymsal  Positional Vertigo be affecting me?,general
+I'm suffering from (vertigo) Paroymsal  Positional Vertigo,general
+I think I might have (vertigo) Paroymsal  Positional Vertigo,general
+I have Hyperthyroidism,general
+I feel Hyperthyroidism,general
+Do I have Hyperthyroidism?,general
+Is it possible that I have Hyperthyroidism?,general
+I'm experiencing Hyperthyroidism,general
+Could Hyperthyroidism be affecting me?,general
+I'm suffering from Hyperthyroidism,general
+I think I might have Hyperthyroidism,general
+I have Paralysis (brain hemorrhage),general
+I feel Paralysis (brain hemorrhage),general
+Do I have Paralysis (brain hemorrhage)?,general
+Is it possible that I have Paralysis (brain hemorrhage)?,general
+I'm experiencing Paralysis (brain hemorrhage),general
+Could Paralysis (brain hemorrhage) be affecting me?,general
+I'm suffering from Paralysis (brain hemorrhage),general
+I think I might have Paralysis (brain hemorrhage),general
+I have GERD,general
+I feel GERD,general
+Do I have GERD?,general
+Is it possible that I have GERD?,general
+I'm experiencing GERD,general
+Could GERD be affecting me?,general
+I'm suffering from GERD,general
+I think I might have GERD,general
+I have GERD,general
+I feel GERD,general
+Do I have GERD?,general
+Is it possible that I have GERD?,general
+I'm experiencing GERD,general
+Could GERD be affecting me?,general
+I'm suffering from GERD,general
+I think I might have GERD,general
+I have Psoriasis,general
+I feel Psoriasis,general
+Do I have Psoriasis?,general
+Is it possible that I have Psoriasis?,general
+I'm experiencing Psoriasis,general
+Could Psoriasis be affecting me?,general
+I'm suffering from Psoriasis,general
+I think I might have Psoriasis,general
+I have Osteoarthristis,general
+I feel Osteoarthristis,general
+Do I have Osteoarthristis?,general
+Is it possible that I have Osteoarthristis?,general
+I'm experiencing Osteoarthristis,general
+Could Osteoarthristis be affecting me?,general
+I'm suffering from Osteoarthristis,general
+I think I might have Osteoarthristis,general
+I have Urinary tract infection,general
+I feel Urinary tract infection,general
+Do I have Urinary tract infection?,general
+Is it possible that I have Urinary tract infection?,general
+I'm experiencing Urinary tract infection,general
+Could Urinary tract infection be affecting me?,general
+I'm suffering from Urinary tract infection,general
+I think I might have Urinary tract infection,general
+I have Arthritis,general
+I feel Arthritis,general
+Do I have Arthritis?,general
+Is it possible that I have Arthritis?,general
+I'm experiencing Arthritis,general
+Could Arthritis be affecting me?,general
+I'm suffering from Arthritis,general
+I think I might have Arthritis,general
+I have Urinary tract infection,general
+I feel Urinary tract infection,general
+Do I have Urinary tract infection?,general
+Is it possible that I have Urinary tract infection?,general
+I'm experiencing Urinary tract infection,general
+Could Urinary tract infection be affecting me?,general
+I'm suffering from Urinary tract infection,general
+I think I might have Urinary tract infection,general
+I have Urinary tract infection,general
+I feel Urinary tract infection,general
+Do I have Urinary tract infection?,general
+Is it possible that I have Urinary tract infection?,general
+I'm experiencing Urinary tract infection,general
+Could Urinary tract infection be affecting me?,general
+I'm suffering from Urinary tract infection,general
+I think I might have Urinary tract infection,general
+I have Bronchial Asthma,general
+I feel Bronchial Asthma,general
+Do I have Bronchial Asthma?,general
+Is it possible that I have Bronchial Asthma?,general
+I'm experiencing Bronchial Asthma,general
+Could Bronchial Asthma be affecting me?,general
+I'm suffering from Bronchial Asthma,general
+I think I might have Bronchial Asthma,general
+I have Hepatitis B,general
+I feel Hepatitis B,general
+Do I have Hepatitis B?,general
+Is it possible that I have Hepatitis B?,general
+I'm experiencing Hepatitis B,general
+Could Hepatitis B be affecting me?,general
+I'm suffering from Hepatitis B,general
+I think I might have Hepatitis B,general
+I have Hepatitis B,general
+I feel Hepatitis B,general
+Do I have Hepatitis B?,general
+Is it possible that I have Hepatitis B?,general
+I'm experiencing Hepatitis B,general
+Could Hepatitis B be affecting me?,general
+I'm suffering from Hepatitis B,general
+I think I might have Hepatitis B,general
+I have Typhoid,general
+I feel Typhoid,general
+Do I have Typhoid?,general
+Is it possible that I have Typhoid?,general
+I'm experiencing Typhoid,general
+Could Typhoid be affecting me?,general
+I'm suffering from Typhoid,general
+I think I might have Typhoid,general
+I have Typhoid,general
+I feel Typhoid,general
+Do I have Typhoid?,general
+Is it possible that I have Typhoid?,general
+I'm experiencing Typhoid,general
+Could Typhoid be affecting me?,general
+I'm suffering from Typhoid,general
+I think I might have Typhoid,general
+I have AIDS,general
+I feel AIDS,general
+Do I have AIDS?,general
+Is it possible that I have AIDS?,general
+I'm experiencing AIDS,general
+Could AIDS be affecting me?,general
+I'm suffering from AIDS,general
+I think I might have AIDS,general
+I have Alcoholic hepatitis,general
+I feel Alcoholic hepatitis,general
+Do I have Alcoholic hepatitis?,general
+Is it possible that I have Alcoholic hepatitis?,general
+I'm experiencing Alcoholic hepatitis,general
+Could Alcoholic hepatitis be affecting me?,general
+I'm suffering from Alcoholic hepatitis,general
+I think I might have Alcoholic hepatitis,general
+I have (vertigo) Paroymsal  Positional Vertigo,general
+I feel (vertigo) Paroymsal  Positional Vertigo,general
+Do I have (vertigo) Paroymsal  Positional Vertigo?,general
+Is it possible that I have (vertigo) Paroymsal  Positional Vertigo?,general
+I'm experiencing (vertigo) Paroymsal  Positional Vertigo,general
+Could (vertigo) Paroymsal  Positional Vertigo be affecting me?,general
+I'm suffering from (vertigo) Paroymsal  Positional Vertigo,general
+I think I might have (vertigo) Paroymsal  Positional Vertigo,general
+I have Hypertension,general
+I feel Hypertension,general
+Do I have Hypertension?,general
+Is it possible that I have Hypertension?,general
+I'm experiencing Hypertension,general
+Could Hypertension be affecting me?,general
+I'm suffering from Hypertension,general
+I think I might have Hypertension,general
+I have AIDS,general
+I feel AIDS,general
+Do I have AIDS?,general
+Is it possible that I have AIDS?,general
+I'm experiencing AIDS,general
+Could AIDS be affecting me?,general
+I'm suffering from AIDS,general
+I think I might have AIDS,general
+I have Hepatitis D,general
+I feel Hepatitis D,general
+Do I have Hepatitis D?,general
+Is it possible that I have Hepatitis D?,general
+I'm experiencing Hepatitis D,general
+Could Hepatitis D be affecting me?,general
+I'm suffering from Hepatitis D,general
+I think I might have Hepatitis D,general
+I have Gastroenteritis,general
+I feel Gastroenteritis,general
+Do I have Gastroenteritis?,general
+Is it possible that I have Gastroenteritis?,general
+I'm experiencing Gastroenteritis,general
+Could Gastroenteritis be affecting me?,general
+I'm suffering from Gastroenteritis,general
+I think I might have Gastroenteritis,general
+I have AIDS,general
+I feel AIDS,general
+Do I have AIDS?,general
+Is it possible that I have AIDS?,general
+I'm experiencing AIDS,general
+Could AIDS be affecting me?,general
+I'm suffering from AIDS,general
+I think I might have AIDS,general
+I have Hypothyroidism,general
+I feel Hypothyroidism,general
+Do I have Hypothyroidism?,general
+Is it possible that I have Hypothyroidism?,general
+I'm experiencing Hypothyroidism,general
+Could Hypothyroidism be affecting me?,general
+I'm suffering from Hypothyroidism,general
+I think I might have Hypothyroidism,general
+I have Tuberculosis,general
+I feel Tuberculosis,general
+Do I have Tuberculosis?,general
+Is it possible that I have Tuberculosis?,general
+I'm experiencing Tuberculosis,general
+Could Tuberculosis be affecting me?,general
+I'm suffering from Tuberculosis,general
+I think I might have Tuberculosis,general
+I have Alcoholic hepatitis,general
+I feel Alcoholic hepatitis,general
+Do I have Alcoholic hepatitis?,general
+Is it possible that I have Alcoholic hepatitis?,general
+I'm experiencing Alcoholic hepatitis,general
+Could Alcoholic hepatitis be affecting me?,general
+I'm suffering from Alcoholic hepatitis,general
+I think I might have Alcoholic hepatitis,general
+I have Alcoholic hepatitis,general
+I feel Alcoholic hepatitis,general
+Do I have Alcoholic hepatitis?,general
+Is it possible that I have Alcoholic hepatitis?,general
+I'm experiencing Alcoholic hepatitis,general
+Could Alcoholic hepatitis be affecting me?,general
+I'm suffering from Alcoholic hepatitis,general
+I think I might have Alcoholic hepatitis,general
+I have Common Cold,general
+I feel Common Cold,general
+Do I have Common Cold?,general
+Is it possible that I have Common Cold?,general
+I'm experiencing Common Cold,general
+Could Common Cold be affecting me?,general
+I'm suffering from Common Cold,general
+I think I might have Common Cold,general
+I have Paralysis (brain hemorrhage),general
+I feel Paralysis (brain hemorrhage),general
+Do I have Paralysis (brain hemorrhage)?,general
+Is it possible that I have Paralysis (brain hemorrhage)?,general
+I'm experiencing Paralysis (brain hemorrhage),general
+Could Paralysis (brain hemorrhage) be affecting me?,general
+I'm suffering from Paralysis (brain hemorrhage),general
+I think I might have Paralysis (brain hemorrhage),general
+I have Typhoid,general
+I feel Typhoid,general
+Do I have Typhoid?,general
+Is it possible that I have Typhoid?,general
+I'm experiencing Typhoid,general
+Could Typhoid be affecting me?,general
+I'm suffering from Typhoid,general
+I think I might have Typhoid,general
+I have Chicken pox,general
+I feel Chicken pox,general
+Do I have Chicken pox?,general
+Is it possible that I have Chicken pox?,general
+I'm experiencing Chicken pox,general
+Could Chicken pox be affecting me?,general
+I'm suffering from Chicken pox,general
+I think I might have Chicken pox,general
+I have Hepatitis E,general
+I feel Hepatitis E,general
+Do I have Hepatitis E?,general
+Is it possible that I have Hepatitis E?,general
+I'm experiencing Hepatitis E,general
+Could Hepatitis E be affecting me?,general
+I'm suffering from Hepatitis E,general
+I think I might have Hepatitis E,general
+I have Acne,general
+I feel Acne,general
+Do I have Acne?,general
+Is it possible that I have Acne?,general
+I'm experiencing Acne,general
+Could Acne be affecting me?,general
+I'm suffering from Acne,general
+I think I might have Acne,general
+I have Osteoarthristis,general
+I feel Osteoarthristis,general
+Do I have Osteoarthristis?,general
+Is it possible that I have Osteoarthristis?,general
+I'm experiencing Osteoarthristis,general
+Could Osteoarthristis be affecting me?,general
+I'm suffering from Osteoarthristis,general
+I think I might have Osteoarthristis,general
+I have Acne,general
+I feel Acne,general
+Do I have Acne?,general
+Is it possible that I have Acne?,general
+I'm experiencing Acne,general
+Could Acne be affecting me?,general
+I'm suffering from Acne,general
+I think I might have Acne,general
+I have Fungal infection,general
+I feel Fungal infection,general
+Do I have Fungal infection?,general
+Is it possible that I have Fungal infection?,general
+I'm experiencing Fungal infection,general
+Could Fungal infection be affecting me?,general
+I'm suffering from Fungal infection,general
+I think I might have Fungal infection,general
+I have Urinary tract infection,general
+I feel Urinary tract infection,general
+Do I have Urinary tract infection?,general
+Is it possible that I have Urinary tract infection?,general
+I'm experiencing Urinary tract infection,general
+Could Urinary tract infection be affecting me?,general
+I'm suffering from Urinary tract infection,general
+I think I might have Urinary tract infection,general
+I have hepatitis A,general
+I feel hepatitis A,general
+Do I have hepatitis A?,general
+Is it possible that I have hepatitis A?,general
+I'm experiencing hepatitis A,general
+Could hepatitis A be affecting me?,general
+I'm suffering from hepatitis A,general
+I think I might have hepatitis A,general
+I have Hepatitis B,general
+I feel Hepatitis B,general
+Do I have Hepatitis B?,general
+Is it possible that I have Hepatitis B?,general
+I'm experiencing Hepatitis B,general
+Could Hepatitis B be affecting me?,general
+I'm suffering from Hepatitis B,general
+I think I might have Hepatitis B,general
+I have Hepatitis C,general
+I feel Hepatitis C,general
+Do I have Hepatitis C?,general
+Is it possible that I have Hepatitis C?,general
+I'm experiencing Hepatitis C,general
+Could Hepatitis C be affecting me?,general
+I'm suffering from Hepatitis C,general
+I think I might have Hepatitis C,general
+I have irregular_sugar_level,general
+I feel irregular_sugar_level,general
+Do I have irregular_sugar_level?,general
+Is it possible that I have irregular_sugar_level?,general
+I'm experiencing irregular_sugar_level,general
+Could irregular_sugar_level be affecting me?,general
+I'm suffering from irregular_sugar_level,general
+I think I might have irregular_sugar_level,general
+I have Hypothyroidism,general
+I feel Hypothyroidism,general
+Do I have Hypothyroidism?,general
+Is it possible that I have Hypothyroidism?,general
+I'm experiencing Hypothyroidism,general
+Could Hypothyroidism be affecting me?,general
+I'm suffering from Hypothyroidism,general
+I think I might have Hypothyroidism,general
+I have Hepatitis C,general
+I feel Hepatitis C,general
+Do I have Hepatitis C?,general
+Is it possible that I have Hepatitis C?,general
+I'm experiencing Hepatitis C,general
+Could Hepatitis C be affecting me?,general
+I'm suffering from Hepatitis C,general
+I think I might have Hepatitis C,general
+I have Drug Reaction,general
+I feel Drug Reaction,general
+Do I have Drug Reaction?,general
+Is it possible that I have Drug Reaction?,general
+I'm experiencing Drug Reaction,general
+Could Drug Reaction be affecting me?,general
+I'm suffering from Drug Reaction,general
+I think I might have Drug Reaction,general
+I have Allergy,general
+I feel Allergy,general
+Do I have Allergy?,general
+Is it possible that I have Allergy?,general
+I'm experiencing Allergy,general
+Could Allergy be affecting me?,general
+I'm suffering from Allergy,general
+I think I might have Allergy,general
+I have Chronic cholestasis,general
+I feel Chronic cholestasis,general
+Do I have Chronic cholestasis?,general
+Is it possible that I have Chronic cholestasis?,general
+I'm experiencing Chronic cholestasis,general
+Could Chronic cholestasis be affecting me?,general
+I'm suffering from Chronic cholestasis,general
+I think I might have Chronic cholestasis,general
+I have Typhoid,general
+I feel Typhoid,general
+Do I have Typhoid?,general
+Is it possible that I have Typhoid?,general
+I'm experiencing Typhoid,general
+Could Typhoid be affecting me?,general
+I'm suffering from Typhoid,general
+I think I might have Typhoid,general
+I have Psoriasis,general
+I feel Psoriasis,general
+Do I have Psoriasis?,general
+Is it possible that I have Psoriasis?,general
+I'm experiencing Psoriasis,general
+Could Psoriasis be affecting me?,general
+I'm suffering from Psoriasis,general
+I think I might have Psoriasis,general
+I have AIDS,general
+I feel AIDS,general
+Do I have AIDS?,general
+Is it possible that I have AIDS?,general
+I'm experiencing AIDS,general
+Could AIDS be affecting me?,general
+I'm suffering from AIDS,general
+I think I might have AIDS,general
+I have Arthritis,general
+I feel Arthritis,general
+Do I have Arthritis?,general
+Is it possible that I have Arthritis?,general
+I'm experiencing Arthritis,general
+Could Arthritis be affecting me?,general
+I'm suffering from Arthritis,general
+I think I might have Arthritis,general
+I have Arthritis,general
+I feel Arthritis,general
+Do I have Arthritis?,general
+Is it possible that I have Arthritis?,general
+I'm experiencing Arthritis,general
+Could Arthritis be affecting me?,general
+I'm suffering from Arthritis,general
+I think I might have Arthritis,general
+I have Chronic cholestasis,general
+I feel Chronic cholestasis,general
+Do I have Chronic cholestasis?,general
+Is it possible that I have Chronic cholestasis?,general
+I'm experiencing Chronic cholestasis,general
+Could Chronic cholestasis be affecting me?,general
+I'm suffering from Chronic cholestasis,general
+I think I might have Chronic cholestasis,general
+I have Allergy,general
+I feel Allergy,general
+Do I have Allergy?,general
+Is it possible that I have Allergy?,general
+I'm experiencing Allergy,general
+Could Allergy be affecting me?,general
+I'm suffering from Allergy,general
+I think I might have Allergy,general
+I have muscle_weakness,general
+I feel muscle_weakness,general
+Do I have muscle_weakness?,general
+Is it possible that I have muscle_weakness?,general
+I'm experiencing muscle_weakness,general
+Could muscle_weakness be affecting me?,general
+I'm suffering from muscle_weakness,general
+I think I might have muscle_weakness,general
+I have GERD,general
+I feel GERD,general
+Do I have GERD?,general
+Is it possible that I have GERD?,general
+I'm experiencing GERD,general
+Could GERD be affecting me?,general
+I'm suffering from GERD,general
+I think I might have GERD,general
+I have Chicken pox,general
+I feel Chicken pox,general
+Do I have Chicken pox?,general
+Is it possible that I have Chicken pox?,general
+I'm experiencing Chicken pox,general
+Could Chicken pox be affecting me?,general
+I'm suffering from Chicken pox,general
+I think I might have Chicken pox,general
+I have Allergy,general
+I feel Allergy,general
+Do I have Allergy?,general
+Is it possible that I have Allergy?,general
+I'm experiencing Allergy,general
+Could Allergy be affecting me?,general
+I'm suffering from Allergy,general
+I think I might have Allergy,general
+I have Psoriasis,general
+I feel Psoriasis,general
+Do I have Psoriasis?,general
+Is it possible that I have Psoriasis?,general
+I'm experiencing Psoriasis,general
+Could Psoriasis be affecting me?,general
+I'm suffering from Psoriasis,general
+I think I might have Psoriasis,general
+I have Chronic cholestasis,general
+I feel Chronic cholestasis,general
+Do I have Chronic cholestasis?,general
+Is it possible that I have Chronic cholestasis?,general
+I'm experiencing Chronic cholestasis,general
+Could Chronic cholestasis be affecting me?,general
+I'm suffering from Chronic cholestasis,general
+I think I might have Chronic cholestasis,general
+I have Heart attack,general
+I feel Heart attack,general
+Do I have Heart attack?,general
+Is it possible that I have Heart attack?,general
+I'm experiencing Heart attack,general
+Could Heart attack be affecting me?,general
+I'm suffering from Heart attack,general
+I think I might have Heart attack,general
+I have Hepatitis B,general
+I feel Hepatitis B,general
+Do I have Hepatitis B?,general
+Is it possible that I have Hepatitis B?,general
+I'm experiencing Hepatitis B,general
+Could Hepatitis B be affecting me?,general
+I'm suffering from Hepatitis B,general
+I think I might have Hepatitis B,general
+I have Impetigo,general
+I feel Impetigo,general
+Do I have Impetigo?,general
+Is it possible that I have Impetigo?,general
+I'm experiencing Impetigo,general
+Could Impetigo be affecting me?,general
+I'm suffering from Impetigo,general
+I think I might have Impetigo,general
+I have Hypothyroidism,general
+I feel Hypothyroidism,general
+Do I have Hypothyroidism?,general
+Is it possible that I have Hypothyroidism?,general
+I'm experiencing Hypothyroidism,general
+Could Hypothyroidism be affecting me?,general
+I'm suffering from Hypothyroidism,general
+I think I might have Hypothyroidism,general
+I have Dengue,general
+I feel Dengue,general
+Do I have Dengue?,general
+Is it possible that I have Dengue?,general
+I'm experiencing Dengue,general
+Could Dengue be affecting me?,general
+I'm suffering from Dengue,general
+I think I might have Dengue,general
+I have Hypertension,general
+I feel Hypertension,general
+Do I have Hypertension?,general
+Is it possible that I have Hypertension?,general
+I'm experiencing Hypertension,general
+Could Hypertension be affecting me?,general
+I'm suffering from Hypertension,general
+I think I might have Hypertension,general
+I have Psoriasis,general
+I feel Psoriasis,general
+Do I have Psoriasis?,general
+Is it possible that I have Psoriasis?,general
+I'm experiencing Psoriasis,general
+Could Psoriasis be affecting me?,general
+I'm suffering from Psoriasis,general
+I think I might have Psoriasis,general
+I have Heart attack,general
+I feel Heart attack,general
+Do I have Heart attack?,general
+Is it possible that I have Heart attack?,general
+I'm experiencing Heart attack,general
+Could Heart attack be affecting me?,general
+I'm suffering from Heart attack,general
+I think I might have Heart attack,general
+I have Common Cold,general
+I feel Common Cold,general
+Do I have Common Cold?,general
+Is it possible that I have Common Cold?,general
+I'm experiencing Common Cold,general
+Could Common Cold be affecting me?,general
+I'm suffering from Common Cold,general
+I think I might have Common Cold,general
+I have Paralysis (brain hemorrhage),general
+I feel Paralysis (brain hemorrhage),general
+Do I have Paralysis (brain hemorrhage)?,general
+Is it possible that I have Paralysis (brain hemorrhage)?,general
+I'm experiencing Paralysis (brain hemorrhage),general
+Could Paralysis (brain hemorrhage) be affecting me?,general
+I'm suffering from Paralysis (brain hemorrhage),general
+I think I might have Paralysis (brain hemorrhage),general
+I have Jaundice,general
+I feel Jaundice,general
+Do I have Jaundice?,general
+Is it possible that I have Jaundice?,general
+I'm experiencing Jaundice,general
+Could Jaundice be affecting me?,general
+I'm suffering from Jaundice,general
+I think I might have Jaundice,general
+I have Pneumonia,general
+I feel Pneumonia,general
+Do I have Pneumonia?,general
+Is it possible that I have Pneumonia?,general
+I'm experiencing Pneumonia,general
+Could Pneumonia be affecting me?,general
+I'm suffering from Pneumonia,general
+I think I might have Pneumonia,general

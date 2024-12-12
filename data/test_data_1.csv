@@ -1,0 +1,691 @@
+Question,Expected Answer
+"What disease does the following symptoms correspond to: dischromic patches, itching, nodal skin eruptions, skin rash?",Fungal infection
+"What disease does the following symptoms correspond to: itching, nodal skin eruptions, skin rash?",Fungal infection
+"What disease does the following symptoms correspond to: dischromic patches, nodal skin eruptions, skin rash?",Fungal infection
+"What disease does the following symptoms correspond to: dischromic patches, itching, skin rash?",Fungal infection
+"What disease does the following symptoms correspond to: dischromic patches, itching, nodal skin eruptions?",Fungal infection
+"What disease does the following symptoms correspond to: continuous sneezing, shivering, watering from eyes?",Allergy
+"What disease does the following symptoms correspond to: chills, continuous sneezing, watering from eyes?",Allergy
+"What disease does the following symptoms correspond to: chills, continuous sneezing, shivering?",Allergy
+"What disease does the following symptoms correspond to: chills, continuous sneezing, shivering, watering from eyes?",Allergy
+"What disease does the following symptoms correspond to: chills, shivering, watering from eyes?",Allergy
+"What disease does the following symptoms correspond to: acidity, chest pain, cough, stomach pain, ulcers on tongue, vomiting?",GERD
+"What disease does the following symptoms correspond to: acidity, chest pain, cough, stomach pain, vomiting?",GERD
+"What disease does the following symptoms correspond to: acidity, chest pain, cough, ulcers on tongue, vomiting?",GERD
+"What disease does the following symptoms correspond to: acidity, chest pain, cough, stomach pain, ulcers on tongue?",GERD
+"What disease does the following symptoms correspond to: chest pain, cough, stomach pain, ulcers on tongue, vomiting?",GERD
+"What disease does the following symptoms correspond to: acidity, chest pain, stomach pain, ulcers on tongue, vomiting?",GERD
+"What disease does the following symptoms correspond to: acidity, cough, stomach pain, ulcers on tongue, vomiting?",GERD
+"What disease does the following symptoms correspond to: itching, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin?",Chronic cholestasis
+"What disease does the following symptoms correspond to: abdominal pain, itching, loss of appetite, nausea, vomiting, yellowish skin?",Chronic cholestasis
+"What disease does the following symptoms correspond to: abdominal pain, itching, nausea, vomiting, yellowing of eyes, yellowish skin?",Chronic cholestasis
+"What disease does the following symptoms correspond to: abdominal pain, itching, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin?",Chronic cholestasis
+"What disease does the following symptoms correspond to: abdominal pain, itching, loss of appetite, nausea, vomiting, yellowing of eyes?",Chronic cholestasis
+"What disease does the following symptoms correspond to: abdominal pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin?",Chronic cholestasis
+"What disease does the following symptoms correspond to: abdominal pain, itching, loss of appetite, nausea, yellowing of eyes, yellowish skin?",Chronic cholestasis
+"What disease does the following symptoms correspond to: abdominal pain, itching, loss of appetite, vomiting, yellowing of eyes, yellowish skin?",Chronic cholestasis
+"What disease does the following symptoms correspond to: burning micturition, skin rash, spotting urination, stomach pain?",Drug Reaction
+"What disease does the following symptoms correspond to: burning micturition, itching, spotting urination, stomach pain?",Drug Reaction
+"What disease does the following symptoms correspond to: burning micturition, itching, skin rash, spotting urination?",Drug Reaction
+"What disease does the following symptoms correspond to: burning micturition, itching, skin rash, spotting urination, stomach pain?",Drug Reaction
+"What disease does the following symptoms correspond to: burning micturition, itching, skin rash, stomach pain?",Drug Reaction
+"What disease does the following symptoms correspond to: itching, skin rash, spotting urination, stomach pain?",Drug Reaction
+"What disease does the following symptoms correspond to: abdominal pain, indigestion, loss of appetite, passage of gases, vomiting?",Peptic ulcer disease
+"What disease does the following symptoms correspond to: abdominal pain, indigestion, internal itching, loss of appetite, passage of gases?",Peptic ulcer disease
+"What disease does the following symptoms correspond to: abdominal pain, indigestion, internal itching, loss of appetite, vomiting?",Peptic ulcer disease
+"What disease does the following symptoms correspond to: abdominal pain, indigestion, internal itching, loss of appetite, passage of gases, vomiting?",Peptic ulcer disease
+"What disease does the following symptoms correspond to: indigestion, internal itching, loss of appetite, passage of gases, vomiting?",Peptic ulcer disease
+"What disease does the following symptoms correspond to: abdominal pain, indigestion, internal itching, passage of gases, vomiting?",Peptic ulcer disease
+"What disease does the following symptoms correspond to: abdominal pain, internal itching, loss of appetite, passage of gases, vomiting?",Peptic ulcer disease
+"What disease does the following symptoms correspond to: extra marital contacts, high fever, muscle wasting?",AIDS
+"What disease does the following symptoms correspond to: high fever, muscle wasting, patches in throat?",AIDS
+"What disease does the following symptoms correspond to: extra marital contacts, muscle wasting, patches in throat?",AIDS
+"What disease does the following symptoms correspond to: extra marital contacts, high fever, muscle wasting, patches in throat?",AIDS
+"What disease does the following symptoms correspond to: extra marital contacts, high fever, patches in throat?",AIDS
+"What disease does the following symptoms correspond to: blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, obesity, polyuria, restlessness, weight loss?",Diabetes
+"What disease does the following symptoms correspond to: blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, polyuria, restlessness, weight loss?",Diabetes
+"What disease does the following symptoms correspond to: blurred and distorted vision, excessive hunger, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness, weight loss?",Diabetes
+"What disease does the following symptoms correspond to: blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness, weight loss?",Diabetes
+"What disease does the following symptoms correspond to: blurred and distorted vision, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness, weight loss?",Diabetes
+"What disease does the following symptoms correspond to: blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness?",Diabetes
+"What disease does the following symptoms correspond to: blurred and distorted vision, excessive hunger, fatigue, increased appetite, lethargy, obesity, polyuria, restlessness, weight loss?",Diabetes
+"What disease does the following symptoms correspond to: excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, restlessness, weight loss?",Diabetes
+"What disease does the following symptoms correspond to: blurred and distorted vision, excessive hunger, fatigue, increased appetite, irregular sugar level, lethargy, obesity, polyuria, weight loss?",Diabetes
+"What disease does the following symptoms correspond to: dehydration, diarrhoea, sunken eyes, vomiting?",Gastroenteritis
+"What disease does the following symptoms correspond to: diarrhoea, sunken eyes, vomiting?",Gastroenteritis
+"What disease does the following symptoms correspond to: dehydration, diarrhoea, vomiting?",Gastroenteritis
+"What disease does the following symptoms correspond to: dehydration, diarrhoea, sunken eyes?",Gastroenteritis
+"What disease does the following symptoms correspond to: dehydration, sunken eyes, vomiting?",Gastroenteritis
+"What disease does the following symptoms correspond to: cough, family history, fatigue, high fever, mucoid sputum?",Bronchial Asthma
+"What disease does the following symptoms correspond to: breathlessness, family history, fatigue, high fever, mucoid sputum?",Bronchial Asthma
+"What disease does the following symptoms correspond to: breathlessness, cough, family history, fatigue, high fever?",Bronchial Asthma
+"What disease does the following symptoms correspond to: breathlessness, cough, family history, fatigue, mucoid sputum?",Bronchial Asthma
+"What disease does the following symptoms correspond to: breathlessness, cough, family history, fatigue, high fever, mucoid sputum?",Bronchial Asthma
+"What disease does the following symptoms correspond to: breathlessness, cough, fatigue, high fever, mucoid sputum?",Bronchial Asthma
+"What disease does the following symptoms correspond to: breathlessness, cough, family history, high fever, mucoid sputum?",Bronchial Asthma
+"What disease does the following symptoms correspond to: chest pain, dizziness, headache, lack of concentration?",Hypertension
+"What disease does the following symptoms correspond to: chest pain, dizziness, headache, lack of concentration, loss of balance?",Hypertension
+"What disease does the following symptoms correspond to: chest pain, dizziness, headache, loss of balance?",Hypertension
+"What disease does the following symptoms correspond to: dizziness, headache, lack of concentration, loss of balance?",Hypertension
+"What disease does the following symptoms correspond to: chest pain, headache, lack of concentration, loss of balance?",Hypertension
+"What disease does the following symptoms correspond to: chest pain, dizziness, lack of concentration, loss of balance?",Hypertension
+"What disease does the following symptoms correspond to: acidity, depression, excessive hunger, headache, indigestion, irritability, stiff neck, visual disturbances?",Migraine
+"What disease does the following symptoms correspond to: acidity, blurred and distorted vision, depression, excessive hunger, headache, indigestion, irritability, stiff neck, visual disturbances?",Migraine
+"What disease does the following symptoms correspond to: blurred and distorted vision, depression, excessive hunger, headache, indigestion, irritability, stiff neck, visual disturbances?",Migraine
+"What disease does the following symptoms correspond to: acidity, blurred and distorted vision, depression, excessive hunger, headache, indigestion, stiff neck, visual disturbances?",Migraine
+"What disease does the following symptoms correspond to: acidity, blurred and distorted vision, depression, excessive hunger, headache, indigestion, irritability, stiff neck?",Migraine
+"What disease does the following symptoms correspond to: acidity, blurred and distorted vision, depression, excessive hunger, headache, irritability, stiff neck, visual disturbances?",Migraine
+"What disease does the following symptoms correspond to: acidity, blurred and distorted vision, excessive hunger, headache, indigestion, irritability, stiff neck, visual disturbances?",Migraine
+"What disease does the following symptoms correspond to: acidity, blurred and distorted vision, depression, excessive hunger, indigestion, irritability, stiff neck, visual disturbances?",Migraine
+"What disease does the following symptoms correspond to: acidity, blurred and distorted vision, depression, headache, indigestion, irritability, stiff neck, visual disturbances?",Migraine
+"What disease does the following symptoms correspond to: acidity, blurred and distorted vision, depression, excessive hunger, headache, indigestion, irritability, visual disturbances?",Migraine
+"What disease does the following symptoms correspond to: back pain, dizziness, loss of balance, neck pain, weakness in limbs?",Cervical spondylosis
+"What disease does the following symptoms correspond to: back pain, dizziness, loss of balance, neck pain?",Cervical spondylosis
+"What disease does the following symptoms correspond to: back pain, loss of balance, neck pain, weakness in limbs?",Cervical spondylosis
+"What disease does the following symptoms correspond to: back pain, dizziness, neck pain, weakness in limbs?",Cervical spondylosis
+"What disease does the following symptoms correspond to: back pain, dizziness, loss of balance, weakness in limbs?",Cervical spondylosis
+"What disease does the following symptoms correspond to: dizziness, loss of balance, neck pain, weakness in limbs?",Cervical spondylosis
+"What disease does the following symptoms correspond to: headache, vomiting, weakness of one body side?",Paralysis (brain hemorrhage)
+"What disease does the following symptoms correspond to: altered sensorium, headache, weakness of one body side?",Paralysis (brain hemorrhage)
+"What disease does the following symptoms correspond to: altered sensorium, headache, vomiting, weakness of one body side?",Paralysis (brain hemorrhage)
+"What disease does the following symptoms correspond to: altered sensorium, vomiting, weakness of one body side?",Paralysis (brain hemorrhage)
+"What disease does the following symptoms correspond to: altered sensorium, headache, vomiting?",Paralysis (brain hemorrhage)
+"What disease does the following symptoms correspond to: dark urine, fatigue, high fever, itching, vomiting, weight loss, yellowish skin?",Jaundice
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, high fever, itching, vomiting, weight loss, yellowish skin?",Jaundice
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, high fever, itching, vomiting, yellowish skin?",Jaundice
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, itching, vomiting, weight loss, yellowish skin?",Jaundice
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, high fever, itching, vomiting, weight loss, yellowish skin?",Jaundice
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, high fever, itching, vomiting, weight loss?",Jaundice
+"What disease does the following symptoms correspond to: abdominal pain, fatigue, high fever, itching, vomiting, weight loss, yellowish skin?",Jaundice
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, high fever, itching, weight loss, yellowish skin?",Jaundice
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, high fever, vomiting, weight loss, yellowish skin?",Jaundice
+"What disease does the following symptoms correspond to: diarrhoea, headache, high fever, muscle pain, nausea, sweating, vomiting?",Malaria
+"What disease does the following symptoms correspond to: chills, diarrhoea, headache, high fever, muscle pain, nausea, sweating?",Malaria
+"What disease does the following symptoms correspond to: chills, diarrhoea, headache, high fever, muscle pain, sweating, vomiting?",Malaria
+"What disease does the following symptoms correspond to: chills, diarrhoea, headache, high fever, muscle pain, nausea, vomiting?",Malaria
+"What disease does the following symptoms correspond to: chills, diarrhoea, headache, muscle pain, nausea, sweating, vomiting?",Malaria
+"What disease does the following symptoms correspond to: chills, diarrhoea, headache, high fever, muscle pain, nausea, sweating, vomiting?",Malaria
+"What disease does the following symptoms correspond to: chills, headache, high fever, muscle pain, nausea, sweating, vomiting?",Malaria
+"What disease does the following symptoms correspond to: chills, diarrhoea, high fever, muscle pain, nausea, sweating, vomiting?",Malaria
+"What disease does the following symptoms correspond to: fatigue, headache, high fever, itching, lethargy, loss of appetite, malaise, red spots over body, skin rash, swelled lymph nodes?",Chicken pox
+"What disease does the following symptoms correspond to: fatigue, headache, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash?",Chicken pox
+"What disease does the following symptoms correspond to: headache, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes?",Chicken pox
+"What disease does the following symptoms correspond to: fatigue, headache, high fever, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes?",Chicken pox
+"What disease does the following symptoms correspond to: fatigue, headache, high fever, itching, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes?",Chicken pox
+"What disease does the following symptoms correspond to: fatigue, headache, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes?",Chicken pox
+"What disease does the following symptoms correspond to: fatigue, headache, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes?",Chicken pox
+"What disease does the following symptoms correspond to: fatigue, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes?",Chicken pox
+"What disease does the following symptoms correspond to: fatigue, headache, high fever, itching, lethargy, malaise, mild fever, red spots over body, skin rash, swelled lymph nodes?",Chicken pox
+"What disease does the following symptoms correspond to: fatigue, headache, high fever, itching, lethargy, loss of appetite, malaise, mild fever, red spots over body, swelled lymph nodes?",Chicken pox
+"What disease does the following symptoms correspond to: back pain, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting?",Dengue
+"What disease does the following symptoms correspond to: back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, nausea, pain behind the eyes, red spots over body, skin rash, vomiting?",Dengue
+"What disease does the following symptoms correspond to: back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash?",Dengue
+"What disease does the following symptoms correspond to: back pain, chills, fatigue, headache, high fever, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting?",Dengue
+"What disease does the following symptoms correspond to: back pain, chills, fatigue, headache, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting?",Dengue
+"What disease does the following symptoms correspond to: back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, vomiting?",Dengue
+"What disease does the following symptoms correspond to: back pain, chills, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting?",Dengue
+"What disease does the following symptoms correspond to: back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting?",Dengue
+"What disease does the following symptoms correspond to: back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, red spots over body, skin rash, vomiting?",Dengue
+"What disease does the following symptoms correspond to: back pain, chills, fatigue, headache, high fever, joint pain, loss of appetite, malaise, muscle pain, nausea, pain behind the eyes, skin rash, vomiting?",Dengue
+"What disease does the following symptoms correspond to: abdominal pain, belly pain, chills, constipation, diarrhoea, fatigue, headache, high fever, nausea, toxic look (typhos)?",Typhoid
+"What disease does the following symptoms correspond to: abdominal pain, belly pain, chills, constipation, diarrhoea, fatigue, headache, high fever, nausea, vomiting?",Typhoid
+"What disease does the following symptoms correspond to: abdominal pain, belly pain, chills, constipation, diarrhoea, fatigue, headache, high fever, toxic look (typhos), vomiting?",Typhoid
+"What disease does the following symptoms correspond to: abdominal pain, belly pain, chills, constipation, diarrhoea, fatigue, high fever, nausea, toxic look (typhos), vomiting?",Typhoid
+"What disease does the following symptoms correspond to: belly pain, chills, constipation, diarrhoea, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting?",Typhoid
+"What disease does the following symptoms correspond to: abdominal pain, chills, constipation, diarrhoea, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting?",Typhoid
+"What disease does the following symptoms correspond to: abdominal pain, belly pain, chills, constipation, diarrhoea, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting?",Typhoid
+"What disease does the following symptoms correspond to: abdominal pain, belly pain, chills, diarrhoea, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting?",Typhoid
+"What disease does the following symptoms correspond to: abdominal pain, belly pain, chills, constipation, fatigue, headache, high fever, nausea, toxic look (typhos), vomiting?",Typhoid
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, diarrhoea, joint pain, loss of appetite, mild fever, muscle pain, nausea, yellowing of eyes, yellowish skin?",hepatitis A
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, diarrhoea, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin?",hepatitis A
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin?",hepatitis A
+"What disease does the following symptoms correspond to: abdominal pain, diarrhoea, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin?",hepatitis A
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, diarrhoea, joint pain, loss of appetite, mild fever, muscle pain, vomiting, yellowing of eyes, yellowish skin?",hepatitis A
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, diarrhoea, joint pain, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin?",hepatitis A
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, diarrhoea, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin?",hepatitis A
+"What disease does the following symptoms correspond to: dark urine, diarrhoea, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes, yellowish skin?",hepatitis A
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, diarrhoea, joint pain, loss of appetite, mild fever, muscle pain, nausea, vomiting, yellowing of eyes?",hepatitis A
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin?",Hepatitis B
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin?",Hepatitis B
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin?",Hepatitis B
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, itching, lethargy, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin?",Hepatitis B
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellowing of eyes, yellowish skin?",Hepatitis B
+"What disease does the following symptoms correspond to: dark urine, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin?",Hepatitis B
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, itching, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin?",Hepatitis B
+"What disease does the following symptoms correspond to: abdominal pain, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes, yellowish skin?",Hepatitis B
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, itching, lethargy, loss of appetite, malaise, receiving blood transfusion, receiving unsterile injections, yellow urine, yellowing of eyes?",Hepatitis B
+"What disease does the following symptoms correspond to: family history, fatigue, loss of appetite, nausea, yellowing of eyes, yellowish skin?",Hepatitis C
+"What disease does the following symptoms correspond to: family history, fatigue, nausea, yellowing of eyes, yellowish skin?",Hepatitis C
+"What disease does the following symptoms correspond to: family history, loss of appetite, nausea, yellowing of eyes, yellowish skin?",Hepatitis C
+"What disease does the following symptoms correspond to: family history, fatigue, loss of appetite, nausea, yellowish skin?",Hepatitis C
+"What disease does the following symptoms correspond to: family history, fatigue, loss of appetite, yellowing of eyes, yellowish skin?",Hepatitis C
+"What disease does the following symptoms correspond to: fatigue, loss of appetite, nausea, yellowing of eyes, yellowish skin?",Hepatitis C
+"What disease does the following symptoms correspond to: family history, fatigue, loss of appetite, nausea, yellowing of eyes?",Hepatitis C
+"What disease does the following symptoms correspond to: abdominal pain, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowish skin?",Hepatitis D
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes?",Hepatitis D
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, joint pain, loss of appetite, nausea, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, joint pain, nausea, vomiting, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease does the following symptoms correspond to: dark urine, fatigue, joint pain, loss of appetite, nausea, vomiting, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease does the following symptoms correspond to: abdominal pain, dark urine, fatigue, joint pain, loss of appetite, vomiting, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease does the following symptoms correspond to: abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, stomach bleeding, vomiting, yellowing of eyes, yellowish skin?",Hepatitis E
+"What disease does the following symptoms correspond to: abdominal pain, acute liver failure, coma, dark urine, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin?",Hepatitis E
+"What disease does the following symptoms correspond to: abdominal pain, acute liver failure, coma, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin?",Hepatitis E
+"What disease does the following symptoms correspond to: abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes?",Hepatitis E
+"What disease does the following symptoms correspond to: abdominal pain, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin?",Hepatitis E
+"What disease does the following symptoms correspond to: abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, yellowing of eyes, yellowish skin?",Hepatitis E
+"What disease does the following symptoms correspond to: abdominal pain, acute liver failure, coma, dark urine, fatigue, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin?",Hepatitis E
+"What disease does the following symptoms correspond to: abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, joint pain, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin?",Hepatitis E
+"What disease does the following symptoms correspond to: abdominal pain, acute liver failure, coma, dark urine, fatigue, high fever, loss of appetite, nausea, stomach bleeding, vomiting, yellowing of eyes, yellowish skin?",Hepatitis E
+"What disease does the following symptoms correspond to: abdominal pain, distention of abdomen, fluid overload, history of alcohol consumption, swelling of stomach, vomiting?",Alcoholic hepatitis
+"What disease does the following symptoms correspond to: abdominal pain, distention of abdomen, fluid overload, history of alcohol consumption, swelling of stomach, vomiting, yellowish skin?",Alcoholic hepatitis
+"What disease does the following symptoms correspond to: distention of abdomen, fluid overload, history of alcohol consumption, swelling of stomach, vomiting, yellowish skin?",Alcoholic hepatitis
+"What disease does the following symptoms correspond to: abdominal pain, distention of abdomen, history of alcohol consumption, swelling of stomach, vomiting, yellowish skin?",Alcoholic hepatitis
+"What disease does the following symptoms correspond to: abdominal pain, distention of abdomen, fluid overload, history of alcohol consumption, vomiting, yellowish skin?",Alcoholic hepatitis
+"What disease does the following symptoms correspond to: abdominal pain, distention of abdomen, fluid overload, history of alcohol consumption, swelling of stomach, yellowish skin?",Alcoholic hepatitis
+"What disease does the following symptoms correspond to: abdominal pain, fluid overload, history of alcohol consumption, swelling of stomach, vomiting, yellowish skin?",Alcoholic hepatitis
+"What disease does the following symptoms correspond to: abdominal pain, distention of abdomen, fluid overload, swelling of stomach, vomiting, yellowish skin?",Alcoholic hepatitis
+"What disease does the following symptoms correspond to: blood in sputum, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes?",Tuberculosis
+"What disease does the following symptoms correspond to: blood in sputum, breathlessness, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, yellowing of eyes?",Tuberculosis
+"What disease does the following symptoms correspond to: blood in sputum, breathlessness, chest pain, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes?",Tuberculosis
+"What disease does the following symptoms correspond to: blood in sputum, breathlessness, chest pain, chills, cough, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes?",Tuberculosis
+"What disease does the following symptoms correspond to: blood in sputum, breathlessness, chest pain, chills, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes?",Tuberculosis
+"What disease does the following symptoms correspond to: blood in sputum, breathlessness, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes?",Tuberculosis
+"What disease does the following symptoms correspond to: blood in sputum, breathlessness, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, weight loss, yellowing of eyes?",Tuberculosis
+"What disease does the following symptoms correspond to: blood in sputum, breathlessness, chest pain, chills, cough, fatigue, high fever, loss of appetite, malaise, mild fever, phlegm, swelled lymph nodes, vomiting, weight loss, yellowing of eyes?",Tuberculosis
+"What disease does the following symptoms correspond to: blood in sputum, breathlessness, chest pain, chills, cough, fatigue, loss of appetite, malaise, mild fever, phlegm, sweating, swelled lymph nodes, vomiting, weight loss, yellowing of eyes?",Tuberculosis
+"What disease does the following symptoms correspond to: chest pain, chills, congestion, continuous sneezing, cough, fatigue, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation?",Common Cold
+"What disease does the following symptoms correspond to: chest pain, chills, congestion, continuous sneezing, cough, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation?",Common Cold
+"What disease does the following symptoms correspond to: chest pain, chills, congestion, cough, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation?",Common Cold
+"What disease does the following symptoms correspond to: chest pain, chills, congestion, continuous sneezing, cough, fatigue, headache, high fever, loss of smell, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation?",Common Cold
+"What disease does the following symptoms correspond to: chest pain, congestion, continuous sneezing, cough, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation?",Common Cold
+"What disease does the following symptoms correspond to: chest pain, chills, congestion, continuous sneezing, cough, fatigue, headache, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation?",Common Cold
+"What disease does the following symptoms correspond to: chest pain, chills, congestion, continuous sneezing, cough, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, throat irritation?",Common Cold
+"What disease does the following symptoms correspond to: chest pain, chills, congestion, continuous sneezing, fatigue, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation?",Common Cold
+"What disease does the following symptoms correspond to: chest pain, chills, congestion, continuous sneezing, cough, headache, high fever, loss of smell, malaise, muscle pain, phlegm, redness of eyes, runny nose, sinus pressure, swelled lymph nodes, throat irritation?",Common Cold
+"What disease does the following symptoms correspond to: breathlessness, chest pain, chills, cough, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum, sweating?",Pneumonia
+"What disease does the following symptoms correspond to: breathlessness, chest pain, cough, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum, sweating?",Pneumonia
+"What disease does the following symptoms correspond to: breathlessness, chest pain, chills, cough, fast heart rate, fatigue, malaise, phlegm, rusty sputum, sweating?",Pneumonia
+"What disease does the following symptoms correspond to: breathlessness, chest pain, chills, cough, fast heart rate, fatigue, high fever, phlegm, rusty sputum, sweating?",Pneumonia
+"What disease does the following symptoms correspond to: breathlessness, chest pain, chills, cough, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum?",Pneumonia
+"What disease does the following symptoms correspond to: breathlessness, chest pain, chills, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum, sweating?",Pneumonia
+"What disease does the following symptoms correspond to: breathlessness, chest pain, chills, cough, fast heart rate, high fever, malaise, phlegm, rusty sputum, sweating?",Pneumonia
+"What disease does the following symptoms correspond to: breathlessness, chest pain, chills, cough, fast heart rate, fatigue, high fever, malaise, rusty sputum, sweating?",Pneumonia
+"What disease does the following symptoms correspond to: chest pain, chills, cough, fast heart rate, fatigue, high fever, malaise, phlegm, rusty sputum, sweating?",Pneumonia
+"What disease does the following symptoms correspond to: bloody stool, irritation in anus, pain during bowel movements, pain in anal region?",Dimorphic hemorrhoids(piles)
+"What disease does the following symptoms correspond to: constipation, irritation in anus, pain during bowel movements, pain in anal region?",Dimorphic hemorrhoids(piles)
+"What disease does the following symptoms correspond to: bloody stool, constipation, irritation in anus, pain during bowel movements?",Dimorphic hemorrhoids(piles)
+"What disease does the following symptoms correspond to: bloody stool, constipation, irritation in anus, pain in anal region?",Dimorphic hemorrhoids(piles)
+"What disease does the following symptoms correspond to: bloody stool, constipation, pain during bowel movements, pain in anal region?",Dimorphic hemorrhoids(piles)
+"What disease does the following symptoms correspond to: bloody stool, constipation, irritation in anus, pain during bowel movements, pain in anal region?",Dimorphic hemorrhoids(piles)
+"What disease does the following symptoms correspond to: breathlessness, chest pain, sweating?",Heart attack
+"What disease does the following symptoms correspond to: breathlessness, chest pain, vomiting?",Heart attack
+"What disease does the following symptoms correspond to: breathlessness, sweating, vomiting?",Heart attack
+"What disease does the following symptoms correspond to: chest pain, sweating, vomiting?",Heart attack
+"What disease does the following symptoms correspond to: breathlessness, chest pain, sweating, vomiting?",Heart attack
+"What disease does the following symptoms correspond to: bruising, cramps, fatigue, prominent veins on calf, swollen blood vessels, swollen legs?",Varicose veins
+"What disease does the following symptoms correspond to: bruising, fatigue, obesity, prominent veins on calf, swollen blood vessels, swollen legs?",Varicose veins
+"What disease does the following symptoms correspond to: bruising, cramps, obesity, prominent veins on calf, swollen blood vessels, swollen legs?",Varicose veins
+"What disease does the following symptoms correspond to: bruising, cramps, fatigue, obesity, prominent veins on calf, swollen blood vessels, swollen legs?",Varicose veins
+"What disease does the following symptoms correspond to: cramps, fatigue, obesity, prominent veins on calf, swollen blood vessels, swollen legs?",Varicose veins
+"What disease does the following symptoms correspond to: bruising, cramps, fatigue, obesity, prominent veins on calf, swollen blood vessels?",Varicose veins
+"What disease does the following symptoms correspond to: bruising, cramps, fatigue, obesity, swollen blood vessels, swollen legs?",Varicose veins
+"What disease does the following symptoms correspond to: bruising, cramps, fatigue, obesity, prominent veins on calf, swollen legs?",Varicose veins
+"What disease does the following symptoms correspond to: abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties, weight gain?",Hypothyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties, weight gain?",Hypothyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, puffy face and eyes, swollen extremeties, weight gain?",Hypothyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, mood swings, puffy face and eyes, swollen extremeties, weight gain?",Hypothyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, brittle nails, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties, weight gain?",Hypothyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, brittle nails, cold hands and feets, depression, enlarged thyroid, fatigue, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties, weight gain?",Hypothyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, mood swings, swollen extremeties, weight gain?",Hypothyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, brittle nails, cold hands and feets, depression, dizziness, enlarged thyroid, fatigue, irritability, lethargy, mood swings, puffy face and eyes, swollen extremeties?",Hypothyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, diarrhoea, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, sweating, weight loss?",Hyperthyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, diarrhoea, excessive hunger, fast heart rate, fatigue, irritability, muscle weakness, restlessness, sweating, weight loss?",Hyperthyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, diarrhoea, excessive hunger, fast heart rate, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss?",Hyperthyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss?",Hyperthyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, diarrhoea, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss?",Hyperthyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, diarrhoea, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating?",Hyperthyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, diarrhoea, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, weight loss?",Hyperthyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, diarrhoea, excessive hunger, fast heart rate, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss?",Hyperthyroidism
+"What disease does the following symptoms correspond to: abnormal menstruation, diarrhoea, excessive hunger, fatigue, irritability, mood swings, muscle weakness, restlessness, sweating, weight loss?",Hyperthyroidism
+"What disease does the following symptoms correspond to: anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating?",Hypoglycemia
+"What disease does the following symptoms correspond to: blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting?",Hypoglycemia
+"What disease does the following symptoms correspond to: anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, irritability, nausea, palpitations, slurred speech, sweating, vomiting?",Hypoglycemia
+"What disease does the following symptoms correspond to: anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting?",Hypoglycemia
+"What disease does the following symptoms correspond to: anxiety, blurred and distorted vision, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting?",Hypoglycemia
+"What disease does the following symptoms correspond to: anxiety, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting?",Hypoglycemia
+"What disease does the following symptoms correspond to: anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, palpitations, slurred speech, sweating, vomiting?",Hypoglycemia
+"What disease does the following symptoms correspond to: anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, headache, irritability, nausea, palpitations, slurred speech, sweating, vomiting?",Hypoglycemia
+"What disease does the following symptoms correspond to: anxiety, blurred and distorted vision, drying and tingling lips, excessive hunger, fatigue, headache, irritability, nausea, palpitations, slurred speech, vomiting?",Hypoglycemia
+"What disease does the following symptoms correspond to: joint pain, knee pain, neck pain, painful walking, swelling joints?",Osteoarthristis
+"What disease does the following symptoms correspond to: hip joint pain, joint pain, knee pain, neck pain, painful walking, swelling joints?",Osteoarthristis
+"What disease does the following symptoms correspond to: hip joint pain, joint pain, knee pain, neck pain, swelling joints?",Osteoarthristis
+"What disease does the following symptoms correspond to: hip joint pain, knee pain, neck pain, painful walking, swelling joints?",Osteoarthristis
+"What disease does the following symptoms correspond to: hip joint pain, joint pain, knee pain, neck pain, painful walking?",Osteoarthristis
+"What disease does the following symptoms correspond to: hip joint pain, joint pain, knee pain, painful walking, swelling joints?",Osteoarthristis
+"What disease does the following symptoms correspond to: hip joint pain, joint pain, neck pain, painful walking, swelling joints?",Osteoarthristis
+"What disease does the following symptoms correspond to: movement stiffness, muscle weakness, painful walking, swelling joints?",Arthritis
+"What disease does the following symptoms correspond to: muscle weakness, painful walking, stiff neck, swelling joints?",Arthritis
+"What disease does the following symptoms correspond to: movement stiffness, muscle weakness, stiff neck, swelling joints?",Arthritis
+"What disease does the following symptoms correspond to: movement stiffness, muscle weakness, painful walking, stiff neck?",Arthritis
+"What disease does the following symptoms correspond to: movement stiffness, painful walking, stiff neck, swelling joints?",Arthritis
+"What disease does the following symptoms correspond to: movement stiffness, muscle weakness, painful walking, stiff neck, swelling joints?",Arthritis
+"What disease does the following symptoms correspond to: headache, nausea, spinning movements, unsteadiness, vomiting?",(vertigo) Paroymsal  Positional Vertigo
+"What disease does the following symptoms correspond to: loss of balance, nausea, spinning movements, unsteadiness, vomiting?",(vertigo) Paroymsal  Positional Vertigo
+"What disease does the following symptoms correspond to: headache, loss of balance, spinning movements, unsteadiness, vomiting?",(vertigo) Paroymsal  Positional Vertigo
+"What disease does the following symptoms correspond to: headache, loss of balance, nausea, unsteadiness, vomiting?",(vertigo) Paroymsal  Positional Vertigo
+"What disease does the following symptoms correspond to: headache, loss of balance, nausea, spinning movements, unsteadiness, vomiting?",(vertigo) Paroymsal  Positional Vertigo
+"What disease does the following symptoms correspond to: headache, loss of balance, nausea, spinning movements, vomiting?",(vertigo) Paroymsal  Positional Vertigo
+"What disease does the following symptoms correspond to: headache, loss of balance, nausea, spinning movements, unsteadiness?",(vertigo) Paroymsal  Positional Vertigo
+"What disease does the following symptoms correspond to: blackheads, pus filled pimples, scurring?",Acne
+"What disease does the following symptoms correspond to: blackheads, pus filled pimples, skin rash?",Acne
+"What disease does the following symptoms correspond to: blackheads, pus filled pimples, scurring, skin rash?",Acne
+"What disease does the following symptoms correspond to: pus filled pimples, scurring, skin rash?",Acne
+"What disease does the following symptoms correspond to: blackheads, scurring, skin rash?",Acne
+"What disease does the following symptoms correspond to: bladder discomfort, burning micturition, continuous feel of urine, foul smell of urine?",Urinary tract infection
+"What disease does the following symptoms correspond to: bladder discomfort, burning micturition, foul smell of urine?",Urinary tract infection
+"What disease does the following symptoms correspond to: bladder discomfort, burning micturition, continuous feel of urine?",Urinary tract infection
+"What disease does the following symptoms correspond to: burning micturition, continuous feel of urine, foul smell of urine?",Urinary tract infection
+"What disease does the following symptoms correspond to: bladder discomfort, continuous feel of urine, foul smell of urine?",Urinary tract infection
+"What disease does the following symptoms correspond to: inflammatory nails, joint pain, skin peeling, skin rash, small dents in nails?",Psoriasis
+"What disease does the following symptoms correspond to: joint pain, silver like dusting, skin peeling, skin rash, small dents in nails?",Psoriasis
+"What disease does the following symptoms correspond to: inflammatory nails, joint pain, silver like dusting, skin peeling, skin rash, small dents in nails?",Psoriasis
+"What disease does the following symptoms correspond to: inflammatory nails, silver like dusting, skin peeling, skin rash, small dents in nails?",Psoriasis
+"What disease does the following symptoms correspond to: inflammatory nails, joint pain, silver like dusting, skin rash, small dents in nails?",Psoriasis
+"What disease does the following symptoms correspond to: inflammatory nails, joint pain, silver like dusting, skin peeling, skin rash?",Psoriasis
+"What disease does the following symptoms correspond to: inflammatory nails, joint pain, silver like dusting, skin peeling, small dents in nails?",Psoriasis
+"What disease does the following symptoms correspond to: blister, red sore around nose, skin rash, yellow crust ooze?",Impetigo
+"What disease does the following symptoms correspond to: blister, high fever, red sore around nose, skin rash?",Impetigo
+"What disease does the following symptoms correspond to: blister, high fever, skin rash, yellow crust ooze?",Impetigo
+"What disease does the following symptoms correspond to: blister, high fever, red sore around nose, skin rash, yellow crust ooze?",Impetigo
+"What disease does the following symptoms correspond to: blister, high fever, red sore around nose, yellow crust ooze?",Impetigo
+"What disease does the following symptoms correspond to: high fever, red sore around nose, skin rash, yellow crust ooze?",Impetigo
+What is the disease name based on this description: An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.?,Drug Reaction
+What is the disease name based on this description: An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type.?,Malaria
+"What is the disease name based on this description: An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens.?",Allergy
+"What is the disease name based on this description: Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.?",Hypothyroidism
+"What is the disease name based on this description: Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family.?",Psoriasis
+"What is the disease name based on this description: Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD.?",GERD
+"What is the disease name based on this description: Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases?",Chronic cholestasis
+What is the disease name based on this description: Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.?,hepatitis A
+"What is the disease name based on this description: Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time.?",Osteoarthristis
+What is the disease name based on this description: Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo — the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizziness.?,(vertigo) Paroymsal  Positional Vertigo
+What is the disease name based on this description:  Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes.?,Hypoglycemia
+"What is the disease name based on this description: Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents.?",Acne
+"What is the disease name based on this description: Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.?",Diabetes
+"What is the disease name based on this description: Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts.?",Impetigo
+"What is the disease name based on this description: Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms.?",Hypertension
+"What is the disease name based on this description: Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer.?",Peptic ulcer disease
+"What is the disease name based on this description: Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal. In their ... Other names, Haemorrhoids, piles, hemorrhoidal disease .?",Dimorphic hemorrhoids(piles)
+"What is the disease name based on this description: The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.?",Common Cold
+"What is the disease name based on this description: Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters.?",Chicken pox
+"What is the disease name based on this description: Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs).?",Cervical spondylosis
+"What is the disease name based on this description: Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.?",Hyperthyroidism
+"What is the disease name based on this description: Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating.?",Urinary tract infection
+"What is the disease name based on this description: A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs.?",Varicose veins
+"What is the disease name based on this description: Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.?",AIDS
+"What is the disease name based on this description: Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body.?",Paralysis (brain hemorrhage)
+"What is the disease name based on this description: An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe.?",Typhoid
+"What is the disease name based on this description: Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus.?",Hepatitis B
+"What is the disease name based on this description: In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi.?",Fungal infection
+"What is the disease name based on this description: Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer.?",Hepatitis C
+"What is the disease name based on this description: A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities.?",Migraine
+"What is the disease name based on this description: Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working.?",Bronchial Asthma
+"What is the disease name based on this description: Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol?",Alcoholic hepatitis
+"What is the disease name based on this description: Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the ""morbus regius"" (the regal disease) in the belief that only the touch of a king could cure it?",Jaundice
+What is the disease name based on this description: A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.?,Hepatitis E
+"What is the disease name based on this description: an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. — called also breakbone fever, dengue fever.?",Dengue
+"What is the disease name based on this description: Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV).?",Hepatitis D
+"What is the disease name based on this description: The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle.?",Heart attack
+"What is the disease name based on this description: Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe.?",Pneumonia
+"What is the disease name based on this description: Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis.?",Arthritis
+"What is the disease name based on this description: Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting .?",Gastroenteritis
+"What is the disease name based on this description: Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis.?",Tuberculosis
+What is the description of the disease Drug Reaction?,An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.
+What is the description of the disease Malaria?,An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type.
+What is the description of the disease Allergy?,"An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens."
+What is the description of the disease Hypothyroidism?,"Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone."
+What is the description of the disease Psoriasis?,"Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family."
+What is the description of the disease GERD?,"Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD."
+What is the description of the disease Chronic cholestasis?,"Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases"
+What is the description of the disease hepatitis A?,Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.
+What is the description of the disease Osteoarthristis?,"Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time."
+What is the description of the disease (vertigo) Paroymsal  Positional Vertigo?,Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo — the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizziness.
+What is the description of the disease Hypoglycemia?, Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes.
+What is the description of the disease Acne?,"Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents."
+What is the description of the disease Diabetes?,"Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy."
+What is the description of the disease Impetigo?,"Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts."
+What is the description of the disease Hypertension?,"Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms."
+What is the description of the disease Peptic ulcer disease?,"Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer."
+What is the description of the disease Dimorphic hemorrhoids(piles)?,"Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal. In their ... Other names, Haemorrhoids, piles, hemorrhoidal disease ."
+What is the description of the disease Common Cold?,"The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold."
+What is the description of the disease Chicken pox?,"Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters."
+What is the description of the disease Cervical spondylosis?,"Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs)."
+What is the description of the disease Hyperthyroidism?,"Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat."
+What is the description of the disease Urinary tract infection?,"Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating."
+What is the description of the disease Varicose veins?,"A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs."
+What is the description of the disease AIDS?,"Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease."
+What is the description of the disease Paralysis (brain hemorrhage)?,"Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body."
+What is the description of the disease Typhoid?,"An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe."
+What is the description of the disease Hepatitis B?,"Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus."
+What is the description of the disease Fungal infection?,"In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi."
+What is the description of the disease Hepatitis C?,"Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer."
+What is the description of the disease Migraine?,"A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities."
+What is the description of the disease Bronchial Asthma?,"Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working."
+What is the description of the disease Alcoholic hepatitis?,"Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol"
+What is the description of the disease Jaundice?,"Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the ""morbus regius"" (the regal disease) in the belief that only the touch of a king could cure it"
+What is the description of the disease Hepatitis E?,A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.
+What is the description of the disease Dengue?,"an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. — called also breakbone fever, dengue fever."
+What is the description of the disease Hepatitis D?,"Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV)."
+What is the description of the disease Heart attack?,"The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle."
+What is the description of the disease Pneumonia?,"Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe."
+What is the description of the disease Arthritis?,"Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis."
+What is the description of the disease Gastroenteritis?,"Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting ."
+What is the description of the disease Tuberculosis?,"Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis."
+"What disease do the following symptoms correspond to: dischromic patches, nodal skin eruptions?",Fungal infection
+What disease do the following symptoms correspond to: itching?,Fungal infection
+What disease do the following symptoms correspond to: nodal skin eruptions?,Fungal infection
+What disease do the following symptoms correspond to: skin rash?,Fungal infection
+What disease do the following symptoms correspond to: itching?,Fungal infection
+What disease do the following symptoms correspond to: watering from eyes?,Allergy
+What disease do the following symptoms correspond to: continuous sneezing?,Allergy
+What disease do the following symptoms correspond to: shivering?,Allergy
+"What disease do the following symptoms correspond to: shivering, watering from eyes?",Allergy
+What disease do the following symptoms correspond to: chills?,Allergy
+What disease do the following symptoms correspond to: cough?,GERD
+"What disease do the following symptoms correspond to: cough, vomiting?",GERD
+What disease do the following symptoms correspond to: chest pain?,GERD
+"What disease do the following symptoms correspond to: cough, stomach pain?",GERD
+"What disease do the following symptoms correspond to: chest pain, cough?",GERD
+What disease do the following symptoms correspond to: acidity?,GERD
+What disease do the following symptoms correspond to: ulcers on tongue?,GERD
+What disease do the following symptoms correspond to: vomiting?,Chronic cholestasis
+"What disease do the following symptoms correspond to: loss of appetite, nausea, yellowish skin?",Chronic cholestasis
+"What disease do the following symptoms correspond to: nausea, vomiting, yellowish skin?",Chronic cholestasis
+What disease do the following symptoms correspond to: abdominal pain?,Chronic cholestasis
+"What disease do the following symptoms correspond to: abdominal pain, itching, nausea?",Chronic cholestasis
+"What disease do the following symptoms correspond to: loss of appetite, vomiting?",Chronic cholestasis
+"What disease do the following symptoms correspond to: itching, loss of appetite?",Chronic cholestasis
+What disease do the following symptoms correspond to: vomiting?,Chronic cholestasis
+"What disease do the following symptoms correspond to: burning micturition, spotting urination?",Drug Reaction
+"What disease do the following symptoms correspond to: itching, stomach pain?",Drug Reaction
+"What disease do the following symptoms correspond to: burning micturition, skin rash?",Drug Reaction
+"What disease do the following symptoms correspond to: itching, skin rash?",Drug Reaction
+What disease do the following symptoms correspond to: burning micturition?,Drug Reaction
+What disease do the following symptoms correspond to: stomach pain?,Drug Reaction
+What disease do the following symptoms correspond to: indigestion?,Peptic ulcer disease
+What disease do the following symptoms correspond to: loss of appetite?,Peptic ulcer disease
+"What disease do the following symptoms correspond to: abdominal pain, loss of appetite?",Peptic ulcer disease
+"What disease do the following symptoms correspond to: abdominal pain, indigestion, internal itching?",Peptic ulcer disease
+"What disease do the following symptoms correspond to: indigestion, loss of appetite?",Peptic ulcer disease
+"What disease do the following symptoms correspond to: indigestion, passage of gases?",Peptic ulcer disease
+"What disease do the following symptoms correspond to: internal itching, passage of gases?",Peptic ulcer disease
+What disease do the following symptoms correspond to: high fever?,AIDS
+What disease do the following symptoms correspond to: high fever?,AIDS
+What disease do the following symptoms correspond to: muscle wasting?,AIDS
+What disease do the following symptoms correspond to: extra marital contacts?,AIDS
+What disease do the following symptoms correspond to: high fever?,AIDS
+What disease do the following symptoms correspond to: obesity?,Diabetes
+"What disease do the following symptoms correspond to: polyuria, restlessness?",Diabetes
+"What disease do the following symptoms correspond to: excessive hunger, obesity, polyuria, weight loss?",Diabetes
+"What disease do the following symptoms correspond to: blurred and distorted vision, excessive hunger, increased appetite, irregular sugar level, obesity?",Diabetes
+"What disease do the following symptoms correspond to: blurred and distorted vision, increased appetite, irregular sugar level?",Diabetes
+What disease do the following symptoms correspond to: restlessness?,Diabetes
+"What disease do the following symptoms correspond to: blurred and distorted vision, lethargy?",Diabetes
+"What disease do the following symptoms correspond to: lethargy, polyuria, restlessness, weight loss?",Diabetes
+"What disease do the following symptoms correspond to: blurred and distorted vision, lethargy, obesity, weight loss?",Diabetes
+What disease do the following symptoms correspond to: sunken eyes?,Gastroenteritis
+What disease do the following symptoms correspond to: diarrhoea?,Gastroenteritis
+What disease do the following symptoms correspond to: vomiting?,Gastroenteritis
+What disease do the following symptoms correspond to: diarrhoea?,Gastroenteritis
+What disease do the following symptoms correspond to: vomiting?,Gastroenteritis
+What disease do the following symptoms correspond to: high fever?,Bronchial Asthma
+"What disease do the following symptoms correspond to: family history, high fever?",Bronchial Asthma
+"What disease do the following symptoms correspond to: family history, fatigue?",Bronchial Asthma
+"What disease do the following symptoms correspond to: breathlessness, cough?",Bronchial Asthma
+"What disease do the following symptoms correspond to: breathlessness, cough, mucoid sputum?",Bronchial Asthma
+What disease do the following symptoms correspond to: fatigue?,Bronchial Asthma
+"What disease do the following symptoms correspond to: cough, family history?",Bronchial Asthma
+"What disease do the following symptoms correspond to: headache, lack of concentration?",Hypertension
+What disease do the following symptoms correspond to: dizziness?,Hypertension
+"What disease do the following symptoms correspond to: headache, loss of balance?",Hypertension
+"What disease do the following symptoms correspond to: headache, lack of concentration?",Hypertension
+What disease do the following symptoms correspond to: chest pain?,Hypertension
+What disease do the following symptoms correspond to: chest pain?,Hypertension
+"What disease do the following symptoms correspond to: depression, excessive hunger, headache, indigestion?",Migraine
+What disease do the following symptoms correspond to: depression?,Migraine
+"What disease do the following symptoms correspond to: blurred and distorted vision, depression?",Migraine
+"What disease do the following symptoms correspond to: depression, excessive hunger, headache?",Migraine
+"What disease do the following symptoms correspond to: blurred and distorted vision, excessive hunger, headache, stiff neck?",Migraine
+"What disease do the following symptoms correspond to: acidity, depression, headache?",Migraine
+What disease do the following symptoms correspond to: acidity?,Migraine
+"What disease do the following symptoms correspond to: blurred and distorted vision, excessive hunger, indigestion, visual disturbances?",Migraine
+What disease do the following symptoms correspond to: indigestion?,Migraine
+"What disease do the following symptoms correspond to: headache, indigestion, visual disturbances?",Migraine
+What disease do the following symptoms correspond to: neck pain?,Cervical spondylosis
+"What disease do the following symptoms correspond to: loss of balance, neck pain?",Cervical spondylosis
+What disease do the following symptoms correspond to: back pain?,Cervical spondylosis
+What disease do the following symptoms correspond to: back pain?,Cervical spondylosis
+"What disease do the following symptoms correspond to: dizziness, weakness in limbs?",Cervical spondylosis
+"What disease do the following symptoms correspond to: neck pain, weakness in limbs?",Cervical spondylosis
+What disease do the following symptoms correspond to: headache?,Paralysis (brain hemorrhage)
+What disease do the following symptoms correspond to: headache?,Paralysis (brain hemorrhage)
+"What disease do the following symptoms correspond to: headache, weakness of one body side?",Paralysis (brain hemorrhage)
+What disease do the following symptoms correspond to: weakness of one body side?,Paralysis (brain hemorrhage)
+What disease do the following symptoms correspond to: headache?,Paralysis (brain hemorrhage)
+What disease do the following symptoms correspond to: fatigue?,Jaundice
+"What disease do the following symptoms correspond to: dark urine, high fever, yellowish skin?",Jaundice
+What disease do the following symptoms correspond to: high fever?,Jaundice
+"What disease do the following symptoms correspond to: fatigue, weight loss?",Jaundice
+"What disease do the following symptoms correspond to: vomiting, weight loss, yellowish skin?",Jaundice
+"What disease do the following symptoms correspond to: dark urine, high fever?",Jaundice
+"What disease do the following symptoms correspond to: itching, vomiting?",Jaundice
+"What disease do the following symptoms correspond to: fatigue, itching, weight loss?",Jaundice
+"What disease do the following symptoms correspond to: dark urine, yellowish skin?",Jaundice
+"What disease do the following symptoms correspond to: headache, nausea, vomiting?",Malaria
+"What disease do the following symptoms correspond to: chills, nausea, sweating?",Malaria
+What disease do the following symptoms correspond to: diarrhoea?,Malaria
+"What disease do the following symptoms correspond to: headache, nausea, vomiting?",Malaria
+What disease do the following symptoms correspond to: muscle pain?,Malaria
+"What disease do the following symptoms correspond to: chills, nausea, sweating?",Malaria
+What disease do the following symptoms correspond to: headache?,Malaria
+"What disease do the following symptoms correspond to: chills, sweating?",Malaria
+"What disease do the following symptoms correspond to: lethargy, red spots over body, skin rash, swelled lymph nodes?",Chicken pox
+"What disease do the following symptoms correspond to: fatigue, itching, red spots over body?",Chicken pox
+What disease do the following symptoms correspond to: swelled lymph nodes?,Chicken pox
+"What disease do the following symptoms correspond to: lethargy, red spots over body?",Chicken pox
+"What disease do the following symptoms correspond to: fatigue, headache, high fever, loss of appetite, red spots over body?",Chicken pox
+"What disease do the following symptoms correspond to: fatigue, loss of appetite, mild fever, skin rash?",Chicken pox
+"What disease do the following symptoms correspond to: itching, loss of appetite, skin rash?",Chicken pox
+What disease do the following symptoms correspond to: swelled lymph nodes?,Chicken pox
+What disease do the following symptoms correspond to: red spots over body?,Chicken pox
+"What disease do the following symptoms correspond to: fatigue, lethargy, malaise, mild fever?",Chicken pox
+"What disease do the following symptoms correspond to: back pain, nausea?",Dengue
+"What disease do the following symptoms correspond to: joint pain, loss of appetite, malaise, nausea, pain behind the eyes, skin rash?",Dengue
+"What disease do the following symptoms correspond to: joint pain, loss of appetite?",Dengue
+"What disease do the following symptoms correspond to: back pain, red spots over body?",Dengue
+"What disease do the following symptoms correspond to: chills, fatigue, nausea, skin rash?",Dengue
+"What disease do the following symptoms correspond to: high fever, joint pain, malaise, red spots over body?",Dengue
+"What disease do the following symptoms correspond to: joint pain, malaise?",Dengue
+"What disease do the following symptoms correspond to: fatigue, headache, muscle pain, pain behind the eyes?",Dengue
+"What disease do the following symptoms correspond to: headache, loss of appetite, malaise, nausea, red spots over body?",Dengue
+"What disease do the following symptoms correspond to: back pain, chills, headache, nausea, pain behind the eyes?",Dengue
+"What disease do the following symptoms correspond to: chills, constipation, diarrhoea, fatigue?",Typhoid
+"What disease do the following symptoms correspond to: belly pain, high fever?",Typhoid
+"What disease do the following symptoms correspond to: abdominal pain, diarrhoea, fatigue, headache, vomiting?",Typhoid
+"What disease do the following symptoms correspond to: diarrhoea, vomiting?",Typhoid
+"What disease do the following symptoms correspond to: belly pain, chills, fatigue, headache?",Typhoid
+"What disease do the following symptoms correspond to: abdominal pain, fatigue, headache?",Typhoid
+"What disease do the following symptoms correspond to: chills, headache, high fever, vomiting?",Typhoid
+"What disease do the following symptoms correspond to: belly pain, fatigue?",Typhoid
+What disease do the following symptoms correspond to: constipation?,Typhoid
+"What disease do the following symptoms correspond to: joint pain, mild fever, nausea?",hepatitis A
+"What disease do the following symptoms correspond to: dark urine, mild fever, vomiting, yellowing of eyes?",hepatitis A
+What disease do the following symptoms correspond to: muscle pain?,hepatitis A
+"What disease do the following symptoms correspond to: abdominal pain, mild fever?",hepatitis A
+"What disease do the following symptoms correspond to: dark urine, joint pain, mild fever, muscle pain, yellowing of eyes?",hepatitis A
+What disease do the following symptoms correspond to: vomiting?,hepatitis A
+"What disease do the following symptoms correspond to: nausea, vomiting, yellowing of eyes?",hepatitis A
+"What disease do the following symptoms correspond to: joint pain, muscle pain, yellowish skin?",hepatitis A
+"What disease do the following symptoms correspond to: diarrhoea, muscle pain?",hepatitis A
+"What disease do the following symptoms correspond to: loss of appetite, yellow urine, yellowish skin?",Hepatitis B
+"What disease do the following symptoms correspond to: fatigue, malaise?",Hepatitis B
+"What disease do the following symptoms correspond to: itching, loss of appetite, receiving blood transfusion?",Hepatitis B
+"What disease do the following symptoms correspond to: abdominal pain, dark urine, itching, yellowing of eyes, yellowish skin?",Hepatitis B
+"What disease do the following symptoms correspond to: abdominal pain, dark urine, lethargy, receiving blood transfusion, yellowish skin?",Hepatitis B
+"What disease do the following symptoms correspond to: loss of appetite, receiving blood transfusion, receiving unsterile injections?",Hepatitis B
+What disease do the following symptoms correspond to: malaise?,Hepatitis B
+"What disease do the following symptoms correspond to: abdominal pain, itching, yellow urine?",Hepatitis B
+"What disease do the following symptoms correspond to: dark urine, lethargy, loss of appetite, receiving unsterile injections, yellowing of eyes?",Hepatitis B
+What disease do the following symptoms correspond to: yellowish skin?,Hepatitis C
+What disease do the following symptoms correspond to: family history?,Hepatitis C
+"What disease do the following symptoms correspond to: loss of appetite, yellowish skin?",Hepatitis C
+What disease do the following symptoms correspond to: yellowish skin?,Hepatitis C
+"What disease do the following symptoms correspond to: family history, loss of appetite?",Hepatitis C
+What disease do the following symptoms correspond to: nausea?,Hepatitis C
+"What disease do the following symptoms correspond to: family history, nausea?",Hepatitis C
+What disease do the following symptoms correspond to: loss of appetite?,Hepatitis D
+"What disease do the following symptoms correspond to: fatigue, yellowish skin?",Hepatitis D
+"What disease do the following symptoms correspond to: dark urine, loss of appetite, nausea, vomiting?",Hepatitis D
+"What disease do the following symptoms correspond to: joint pain, nausea, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease do the following symptoms correspond to: dark urine, joint pain, loss of appetite, vomiting?",Hepatitis D
+"What disease do the following symptoms correspond to: nausea, vomiting?",Hepatitis D
+"What disease do the following symptoms correspond to: joint pain, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease do the following symptoms correspond to: abdominal pain, vomiting, yellowing of eyes, yellowish skin?",Hepatitis D
+"What disease do the following symptoms correspond to: dark urine, fatigue, vomiting, yellowing of eyes?",Hepatitis D
+What disease do the following symptoms correspond to: vomiting?,Hepatitis D
+"What disease do the following symptoms correspond to: coma, dark urine, loss of appetite, stomach bleeding, vomiting, yellowish skin?",Hepatitis E
+What disease do the following symptoms correspond to: abdominal pain?,Hepatitis E
+"What disease do the following symptoms correspond to: coma, loss of appetite, nausea, stomach bleeding, yellowing of eyes?",Hepatitis E
+What disease do the following symptoms correspond to: yellowing of eyes?,Hepatitis E
+"What disease do the following symptoms correspond to: abdominal pain, dark urine, stomach bleeding?",Hepatitis E
+"What disease do the following symptoms correspond to: abdominal pain, fatigue, high fever?",Hepatitis E
+What disease do the following symptoms correspond to: abdominal pain?,Hepatitis E
+"What disease do the following symptoms correspond to: coma, yellowing of eyes?",Hepatitis E
+"What disease do the following symptoms correspond to: coma, dark urine, loss of appetite, stomach bleeding, vomiting, yellowing of eyes?",Hepatitis E
+"What disease do the following symptoms correspond to: abdominal pain, distention of abdomen?",Alcoholic hepatitis
+"What disease do the following symptoms correspond to: distention of abdomen, yellowish skin?",Alcoholic hepatitis
+"What disease do the following symptoms correspond to: swelling of stomach, vomiting?",Alcoholic hepatitis
+What disease do the following symptoms correspond to: yellowish skin?,Alcoholic hepatitis
+"What disease do the following symptoms correspond to: distention of abdomen, fluid overload, vomiting?",Alcoholic hepatitis
+What disease do the following symptoms correspond to: distention of abdomen?,Alcoholic hepatitis
+"What disease do the following symptoms correspond to: fluid overload, history of alcohol consumption?",Alcoholic hepatitis
+What disease do the following symptoms correspond to: abdominal pain?,Alcoholic hepatitis
+"What disease do the following symptoms correspond to: chest pain, chills, cough, malaise, swelled lymph nodes, yellowing of eyes?",Tuberculosis
+"What disease do the following symptoms correspond to: blood in sputum, sweating, swelled lymph nodes, vomiting, yellowing of eyes?",Tuberculosis
+"What disease do the following symptoms correspond to: chest pain, cough, fatigue, high fever, phlegm?",Tuberculosis
+"What disease do the following symptoms correspond to: chest pain, malaise, phlegm, vomiting, yellowing of eyes?",Tuberculosis
+"What disease do the following symptoms correspond to: loss of appetite, phlegm?",Tuberculosis
+"What disease do the following symptoms correspond to: blood in sputum, chills, phlegm, sweating?",Tuberculosis
+"What disease do the following symptoms correspond to: loss of appetite, phlegm, yellowing of eyes?",Tuberculosis
+What disease do the following symptoms correspond to: chest pain?,Tuberculosis
+"What disease do the following symptoms correspond to: cough, fatigue, loss of appetite, malaise, phlegm, swelled lymph nodes?",Tuberculosis
+"What disease do the following symptoms correspond to: chills, continuous sneezing, fatigue, high fever, loss of smell, malaise, redness of eyes?",Common Cold
+"What disease do the following symptoms correspond to: headache, high fever, loss of smell, swelled lymph nodes?",Common Cold
+"What disease do the following symptoms correspond to: congestion, muscle pain?",Common Cold
+What disease do the following symptoms correspond to: cough?,Common Cold
+"What disease do the following symptoms correspond to: fatigue, phlegm, throat irritation?",Common Cold
+"What disease do the following symptoms correspond to: chills, congestion, cough, muscle pain, runny nose?",Common Cold
+"What disease do the following symptoms correspond to: headache, loss of smell, malaise, phlegm, redness of eyes, throat irritation?",Common Cold
+"What disease do the following symptoms correspond to: chills, fatigue, sinus pressure, throat irritation?",Common Cold
+"What disease do the following symptoms correspond to: chills, headache, high fever, phlegm, runny nose, sinus pressure, swelled lymph nodes?",Common Cold
+"What disease do the following symptoms correspond to: breathlessness, fast heart rate, fatigue, malaise, sweating?",Pneumonia
+"What disease do the following symptoms correspond to: fast heart rate, fatigue, malaise, sweating?",Pneumonia
+"What disease do the following symptoms correspond to: chest pain, chills, cough, phlegm?",Pneumonia
+"What disease do the following symptoms correspond to: chills, fast heart rate, high fever, rusty sputum, sweating?",Pneumonia
+"What disease do the following symptoms correspond to: chills, fast heart rate, high fever, rusty sputum?",Pneumonia
+"What disease do the following symptoms correspond to: chest pain, fatigue, malaise?",Pneumonia
+"What disease do the following symptoms correspond to: cough, malaise?",Pneumonia
+What disease do the following symptoms correspond to: high fever?,Pneumonia
+"What disease do the following symptoms correspond to: chest pain, chills, rusty sputum, sweating?",Pneumonia
+"What disease do the following symptoms correspond to: bloody stool, irritation in anus?",Dimorphic hemorrhoids(piles)
+"What disease do the following symptoms correspond to: irritation in anus, pain in anal region?",Dimorphic hemorrhoids(piles)
+What disease do the following symptoms correspond to: irritation in anus?,Dimorphic hemorrhoids(piles)
+What disease do the following symptoms correspond to: pain in anal region?,Dimorphic hemorrhoids(piles)
+"What disease do the following symptoms correspond to: constipation, pain during bowel movements?",Dimorphic hemorrhoids(piles)
+"What disease do the following symptoms correspond to: bloody stool, pain in anal region?",Dimorphic hemorrhoids(piles)
+What disease do the following symptoms correspond to: sweating?,Heart attack
+What disease do the following symptoms correspond to: breathlessness?,Heart attack
+What disease do the following symptoms correspond to: sweating?,Heart attack
+What disease do the following symptoms correspond to: vomiting?,Heart attack
+"What disease do the following symptoms correspond to: breathlessness, chest pain?",Heart attack
+"What disease do the following symptoms correspond to: prominent veins on calf, swollen blood vessels, swollen legs?",Varicose veins
+"What disease do the following symptoms correspond to: prominent veins on calf, swollen blood vessels?",Varicose veins
+What disease do the following symptoms correspond to: prominent veins on calf?,Varicose veins
+"What disease do the following symptoms correspond to: bruising, obesity, prominent veins on calf?",Varicose veins
+"What disease do the following symptoms correspond to: cramps, fatigue?",Varicose veins
+What disease do the following symptoms correspond to: bruising?,Varicose veins
+"What disease do the following symptoms correspond to: bruising, fatigue, swollen blood vessels?",Varicose veins
+What disease do the following symptoms correspond to: fatigue?,Varicose veins
+"What disease do the following symptoms correspond to: brittle nails, dizziness, enlarged thyroid, puffy face and eyes, swollen extremeties?",Hypothyroidism
+"What disease do the following symptoms correspond to: abnormal menstruation, irritability?",Hypothyroidism
+"What disease do the following symptoms correspond to: brittle nails, depression, fatigue, lethargy?",Hypothyroidism
+"What disease do the following symptoms correspond to: brittle nails, cold hands and feets, dizziness, enlarged thyroid?",Hypothyroidism
+What disease do the following symptoms correspond to: fatigue?,Hypothyroidism
+"What disease do the following symptoms correspond to: brittle nails, cold hands and feets?",Hypothyroidism
+"What disease do the following symptoms correspond to: abnormal menstruation, cold hands and feets, dizziness, enlarged thyroid, swollen extremeties?",Hypothyroidism
+"What disease do the following symptoms correspond to: brittle nails, dizziness?",Hypothyroidism
+"What disease do the following symptoms correspond to: abnormal menstruation, diarrhoea, fast heart rate, fatigue, irritability?",Hyperthyroidism
+"What disease do the following symptoms correspond to: diarrhoea, excessive hunger?",Hyperthyroidism
+"What disease do the following symptoms correspond to: diarrhoea, excessive hunger, weight loss?",Hyperthyroidism
+"What disease do the following symptoms correspond to: abnormal menstruation, fatigue, mood swings, sweating, weight loss?",Hyperthyroidism
+"What disease do the following symptoms correspond to: fatigue, weight loss?",Hyperthyroidism
+"What disease do the following symptoms correspond to: irritability, mood swings, restlessness?",Hyperthyroidism
+"What disease do the following symptoms correspond to: abnormal menstruation, mood swings?",Hyperthyroidism
+"What disease do the following symptoms correspond to: irritability, restlessness?",Hyperthyroidism
+What disease do the following symptoms correspond to: fatigue?,Hyperthyroidism
+"What disease do the following symptoms correspond to: blurred and distorted vision, irritability?",Hypoglycemia
+What disease do the following symptoms correspond to: sweating?,Hypoglycemia
+"What disease do the following symptoms correspond to: drying and tingling lips, excessive hunger, fatigue, vomiting?",Hypoglycemia
+"What disease do the following symptoms correspond to: drying and tingling lips, excessive hunger, sweating?",Hypoglycemia
+"What disease do the following symptoms correspond to: fatigue, headache?",Hypoglycemia
+What disease do the following symptoms correspond to: vomiting?,Hypoglycemia
+What disease do the following symptoms correspond to: palpitations?,Hypoglycemia
+What disease do the following symptoms correspond to: blurred and distorted vision?,Hypoglycemia
+"What disease do the following symptoms correspond to: blurred and distorted vision, headache, irritability?",Hypoglycemia
+"What disease do the following symptoms correspond to: joint pain, swelling joints?",Osteoarthristis
+"What disease do the following symptoms correspond to: joint pain, knee pain?",Osteoarthristis
+"What disease do the following symptoms correspond to: knee pain, neck pain?",Osteoarthristis
+What disease do the following symptoms correspond to: knee pain?,Osteoarthristis
+"What disease do the following symptoms correspond to: joint pain, neck pain?",Osteoarthristis
+"What disease do the following symptoms correspond to: knee pain, swelling joints?",Osteoarthristis
+What disease do the following symptoms correspond to: joint pain?,Osteoarthristis
+What disease do the following symptoms correspond to: muscle weakness?,Arthritis
+What disease do the following symptoms correspond to: swelling joints?,Arthritis
+"What disease do the following symptoms correspond to: muscle weakness, stiff neck?",Arthritis
+What disease do the following symptoms correspond to: painful walking?,Arthritis
+"What disease do the following symptoms correspond to: movement stiffness, painful walking?",Arthritis
+"What disease do the following symptoms correspond to: movement stiffness, swelling joints?",Arthritis
+What disease do the following symptoms correspond to: headache?,(vertigo) Paroymsal  Positional Vertigo
+What disease do the following symptoms correspond to: nausea?,(vertigo) Paroymsal  Positional Vertigo
+"What disease do the following symptoms correspond to: headache, vomiting?",(vertigo) Paroymsal  Positional Vertigo
+What disease do the following symptoms correspond to: nausea?,(vertigo) Paroymsal  Positional Vertigo
+What disease do the following symptoms correspond to: vomiting?,(vertigo) Paroymsal  Positional Vertigo
+What disease do the following symptoms correspond to: headache?,(vertigo) Paroymsal  Positional Vertigo
+"What disease do the following symptoms correspond to: headache, unsteadiness?",(vertigo) Paroymsal  Positional Vertigo
+What disease do the following symptoms correspond to: blackheads?,Acne
+What disease do the following symptoms correspond to: skin rash?,Acne
+"What disease do the following symptoms correspond to: pus filled pimples, skin rash?",Acne
+What disease do the following symptoms correspond to: pus filled pimples?,Acne
+What disease do the following symptoms correspond to: skin rash?,Acne
+What disease do the following symptoms correspond to: bladder discomfort?,Urinary tract infection
+What disease do the following symptoms correspond to: foul smell of urine?,Urinary tract infection
+What disease do the following symptoms correspond to: bladder discomfort?,Urinary tract infection
+What disease do the following symptoms correspond to: burning micturition?,Urinary tract infection
+What disease do the following symptoms correspond to: continuous feel of urine?,Urinary tract infection
+What disease do the following symptoms correspond to: skin rash?,Psoriasis
+What disease do the following symptoms correspond to: skin peeling?,Psoriasis
+"What disease do the following symptoms correspond to: inflammatory nails, joint pain, silver like dusting?",Psoriasis
+"What disease do the following symptoms correspond to: silver like dusting, skin peeling?",Psoriasis
+What disease do the following symptoms correspond to: inflammatory nails?,Psoriasis
+What disease do the following symptoms correspond to: inflammatory nails?,Psoriasis
+What disease do the following symptoms correspond to: silver like dusting?,Psoriasis
+What disease do the following symptoms correspond to: red sore around nose?,Impetigo
+What disease do the following symptoms correspond to: high fever?,Impetigo
+What disease do the following symptoms correspond to: yellow crust ooze?,Impetigo
+What disease do the following symptoms correspond to: skin rash?,Impetigo
+What disease do the following symptoms correspond to: red sore around nose?,Impetigo
+"What disease do the following symptoms correspond to: high fever, skin rash?",Impetigo
